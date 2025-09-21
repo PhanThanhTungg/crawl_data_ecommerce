@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 export const connect = async () => {
   try {
-    await mongoose.connect("mongodb+srv://TungConnectDTB:TungConnectDTB@cluster0.berquuj.mongodb.net/myProject")
+    await mongoose.connect(process.env.MONGODB_URL)
     console.log("connect to dtb success!")
   } catch (error) {
     console.log(error);
