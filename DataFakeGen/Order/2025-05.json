@@ -1,0 +1,4373 @@
+[
+  {
+    "_id": "68522e479ead5ad4123b670d",
+    "createdAt": "2025-05-01T00:41:32.858Z",
+    "userId": "6822d091c08fdfcf24d499d3",
+    "userInfo": {
+      "fullName": "Judith Feil IV",
+      "phone": "362-595-8937 x60058",
+      "province": "Thái Bình",
+      "district": "Huyện Hưng Hà",
+      "commune": "Xã Dân Chủ",
+      "detail": "4922 Lyric Heights"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b670d",
+        "product_id": "6814c75737cb2b415f50f05f",
+        "size_id": "6814c75737cb2b415f50f061",
+        "product_title": "Palm Bed",
+        "size": "Full",
+        "price": 90870000,
+        "discountPercentage": 21,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 71787300,
+    "shippingFee": 0,
+    "note": "Surgo adinventitias denique beatae stipes.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6703",
+    "createdAt": "2025-05-01T00:54:16.504Z",
+    "userId": "6822d06dc08fdfcf24d493e9",
+    "userInfo": {
+      "fullName": "Nancy Davis",
+      "phone": "799-871-7017 x89774",
+      "province": "Lào Cai",
+      "district": "Huyện Mường Khương",
+      "commune": "Xã Bản Sen",
+      "detail": "772 Baker Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6703",
+        "product_id": "6814a1941c10fee4a5286da2",
+        "size_id": "6814a1941c10fee4a5286da3",
+        "product_title": "Folk Ladder Shelving",
+        "size": "18\"",
+        "price": 25870000,
+        "discountPercentage": 26,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 19143800,
+    "shippingFee": 0,
+    "note": "Ut virgo volva comis pax.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d6",
+    "createdAt": "2025-05-01T04:56:12.528Z",
+    "userId": "682302641f98de2bb173e617",
+    "userInfo": {
+      "fullName": "Dr. Leona Medhurst",
+      "phone": "769-348-9962 x71231",
+      "province": "An Giang",
+      "district": "Huyện Tịnh Biên",
+      "commune": "Xã An Phú",
+      "detail": "540 Esperanza Camp"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d6",
+        "product_id": "6814c2ca511161f3045acbe4",
+        "size_id": "6814c2ca511161f3045acbe8",
+        "product_title": "OE1 Table",
+        "size": "30 x 72",
+        "price": 20670000,
+        "discountPercentage": 16,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 17362800,
+    "shippingFee": 0,
+    "note": "Defero non vallum admoveo synagoga.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 17362800
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66ec",
+    "createdAt": "2025-05-01T06:03:39.526Z",
+    "userId": "6822d08cc08fdfcf24d49921",
+    "userInfo": {
+      "fullName": "Tommy Frami",
+      "phone": "479.627.1237 x6912",
+      "province": "Trà Vinh",
+      "district": "Huyện Tiểu Cần",
+      "commune": "Xã Long Thới",
+      "detail": "59240 Clarence Road"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66ec",
+        "product_id": "6814d3abbcd9b504d290b087",
+        "size_id": "6814d3abbcd9b504d290b088",
+        "product_title": "Wide Corduroy Pillow",
+        "size": "11\" x 21\"",
+        "price": 5070000,
+        "discountPercentage": 11,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 9024600,
+    "shippingFee": 0,
+    "note": "Utrum aegre curtus caecus adnuo.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 9024600
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f7",
+    "createdAt": "2025-05-01T08:23:29.181Z",
+    "userId": "6822d093c08fdfcf24d49a75",
+    "userInfo": {
+      "fullName": "Roxanne Green",
+      "phone": "662-808-4668 x655",
+      "province": "Tây Ninh",
+      "district": "Huyện Tân Biên",
+      "commune": "Xã Thạnh Tây",
+      "detail": "890 Alma Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f7",
+        "product_id": "6814b499db8e7421d9054829",
+        "size_id": "6814b499db8e7421d905482b",
+        "product_title": "Ridge Vase",
+        "size": "13.8\"",
+        "price": 3614000,
+        "discountPercentage": 27,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66f7",
+        "product_id": "6814a81935053cb1544dd159",
+        "size_id": "6814a81935053cb1544dd15a",
+        "product_title": "Line Media Console",
+        "size": "35\"",
+        "price": 51870000,
+        "discountPercentage": 12,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66f7",
+        "product_id": "6814ccc358f78c505fea9682",
+        "size_id": "6814ccc358f78c505fea9683",
+        "product_title": "Miro Dresser",
+        "size": "Low",
+        "price": 57070000,
+        "discountPercentage": 29,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66f7",
+        "product_id": "6814cabe1780e5204676cdd0",
+        "size_id": "6814cae11780e5204676ce88",
+        "product_title": "HAY Basket",
+        "size": "Small",
+        "price": 910000,
+        "discountPercentage": 27,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 130651820,
+    "shippingFee": 0,
+    "note": "Amplus averto facilis volo tonsor.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6729",
+    "createdAt": "2025-05-01T16:03:54.112Z",
+    "userId": "6822d07ec08fdfcf24d49677",
+    "userInfo": {
+      "fullName": "John Quitzon",
+      "phone": "897-987-5427 x330",
+      "province": "Điện Biên",
+      "district": "Huyện Nậm Pồ",
+      "commune": "Xã Nậm Khăn",
+      "detail": "9305 Elta Canyon"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6729",
+        "product_id": "6814c104ca19a92a5b1d5b2f",
+        "size_id": "6814c104ca19a92a5b1d5b32",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 24,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6729",
+        "product_id": "6814a1941c10fee4a5286d9a",
+        "size_id": "6814a1941c10fee4a5286d9b",
+        "product_title": "Story Bookcase",
+        "size": "Standard",
+        "price": 10270000,
+        "discountPercentage": 29,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6729",
+        "product_id": "6814d245995813a18f27d938",
+        "size_id": "6814d245995813a18f27d93a",
+        "product_title": "Untitled (Blue), Mexico City, 2024",
+        "size": "30\" x 40\"",
+        "price": 38870000,
+        "discountPercentage": 10,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6729",
+        "product_id": "6814c3b3595891202e483a88",
+        "size_id": "6814c3b3595891202e483a89",
+        "product_title": "Nelson X-Leg Table",
+        "size": "30 x 60",
+        "price": 59670000,
+        "discountPercentage": 22,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 104526500,
+    "shippingFee": 0,
+    "note": "Cuppedia vorago confugo eveniet pax.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e4a9ead5ad4123b6734",
+    "createdAt": "2025-05-01T21:30:37.805Z",
+    "userId": "6822d09cc08fdfcf24d49bc9",
+    "userInfo": {
+      "fullName": "Genevieve Bogan",
+      "phone": "(545) 495-7820 x9332",
+      "province": "Tiền Giang",
+      "district": "Huyện Tân Phước",
+      "commune": "Xã Tân Lập 2",
+      "detail": "921 E 4th Avenue"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e4a9ead5ad4123b6734",
+        "product_id": "6814c2cb511161f3045acc48",
+        "size_id": "6814c2cb511161f3045acc49",
+        "product_title": "Copenhague 20 Dining Table 2.0",
+        "size": "47.25\"",
+        "price": 31070000,
+        "discountPercentage": 27,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 22681100,
+    "shippingFee": 0,
+    "note": "Adfero apto tempore conturbo bos.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6720",
+    "createdAt": "2025-05-01T22:28:24.758Z",
+    "userId": "6822d06dc08fdfcf24d493f3",
+    "userInfo": {
+      "fullName": "Cesar Mayert",
+      "phone": "1-453-458-9059 x640",
+      "province": "Thừa Thiên Huế",
+      "district": "Huyện Nam Đông",
+      "commune": "Xã Hương Hữu",
+      "detail": "5978 W Chestnut Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6720",
+        "product_id": "6814ccc358f78c505fea9655",
+        "size_id": "6814ccc358f78c505fea9656",
+        "product_title": "Miro Dresser",
+        "size": "Low",
+        "price": 62270000,
+        "discountPercentage": 20,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 49816000,
+    "shippingFee": 0,
+    "note": "Ancilla deserunt antea laboriosam iusto.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d5",
+    "createdAt": "2025-05-02T07:10:15.653Z",
+    "userId": "682302691f98de2bb173e677",
+    "userInfo": {
+      "fullName": "Sharon Okuneva",
+      "phone": "1-547-819-3278 x223",
+      "province": "Vĩnh Long",
+      "district": "Huyện Tam Bình",
+      "commune": "Xã Bình Ninh",
+      "detail": "736 Quitzon Prairie"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d5",
+        "product_id": "6814cabe1780e5204676cded",
+        "size_id": "6814cabe1780e5204676cdee",
+        "product_title": "Sheepskin Throw",
+        "size": "Single",
+        "price": 3770000,
+        "discountPercentage": 12,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d5",
+        "product_id": "6814c740b44fb7a9e6cbb46b",
+        "size_id": "6814c740b44fb7a9e6cbb46d",
+        "product_title": "Lull Bed",
+        "size": "King",
+        "price": 114270000,
+        "discountPercentage": 21,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d5",
+        "product_id": "6814cabf1780e5204676cdfd",
+        "size_id": "6814cabf1780e5204676cdff",
+        "product_title": "Sheepskin Pillow",
+        "size": "18\" x 18\"",
+        "price": 4160000,
+        "discountPercentage": 26,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d5",
+        "product_id": "6814d49dabc2c4bf4ecaf51e",
+        "size_id": "6814d49dabc2c4bf4ecaf51f",
+        "product_title": "Matera Storage Bench Cushion",
+        "size": "Small",
+        "price": 10270000,
+        "discountPercentage": 14,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 117412100,
+    "shippingFee": 0,
+    "note": "Avarus vomica thesis tutamen vos.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e4a9ead5ad4123b6736",
+    "createdAt": "2025-05-02T17:00:09.217Z",
+    "userId": "6822d093c08fdfcf24d49a5b",
+    "userInfo": {
+      "fullName": "Roberta Schowalter",
+      "phone": "891.569.9254",
+      "province": "Sóc Trăng",
+      "district": "Thị xã Vĩnh Châu",
+      "commune": "Phường Vĩnh Phước",
+      "detail": "49128 School Close"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e4a9ead5ad4123b6736",
+        "product_id": "6814a81935053cb1544dd169",
+        "size_id": "6814a81935053cb1544dd16b",
+        "product_title": "Aura Media Unit",
+        "size": "Large",
+        "price": 75270000,
+        "discountPercentage": 30,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 105378000,
+    "shippingFee": 0,
+    "note": "Placeat arbor aggero cras ascit.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6705",
+    "createdAt": "2025-05-03T01:23:02.660Z",
+    "userId": "6822d072c08fdfcf24d49477",
+    "userInfo": {
+      "fullName": "Ada Williamson",
+      "phone": "1-577-499-0419 x40768",
+      "province": "Tuyên Quang",
+      "district": "Huyện Yên Sơn",
+      "commune": "Xã Lang Quán",
+      "detail": "336 Gerry Alley"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6705",
+        "product_id": "6814c75737cb2b415f50f047",
+        "size_id": "6814c75737cb2b415f50f048",
+        "product_title": "Madeleine Bed",
+        "size": "Twin",
+        "price": 92170000,
+        "discountPercentage": 24,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e469ead5ad4123b6705",
+        "product_id": "68149cfe30a898aab1f043d7",
+        "size_id": "68149cfe30a898aab1f043d9",
+        "product_title": "Mags Sofa",
+        "size": "2.5-Seat Sofa",
+        "price": 132470000,
+        "discountPercentage": 26,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e469ead5ad4123b6705",
+        "product_id": "6814d007dac5e44185ec221d",
+        "size_id": "6814d007dac5e44185ec221e",
+        "product_title": "Matera Storage Bench",
+        "size": "Small",
+        "price": 46670000,
+        "discountPercentage": 20,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e469ead5ad4123b6705",
+        "product_id": "68149cfe30a898aab1f043cb",
+        "size_id": "68149cfe30a898aab1f043cc",
+        "product_title": "Outline Sofa",
+        "size": "2 Seater",
+        "price": 255216000,
+        "discountPercentage": 16,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 517822240,
+    "shippingFee": 0,
+    "note": "Tempore subvenio abduco pax ascisco.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f1",
+    "createdAt": "2025-05-03T09:41:22.844Z",
+    "userId": "6822d099c08fdfcf24d49ae3",
+    "userInfo": {
+      "fullName": "Rudy Crist",
+      "phone": "(881) 649-3985",
+      "province": "Kon Tum",
+      "district": "Huyện Ngọc Hồi",
+      "commune": "Xã Bờ Y",
+      "detail": "609 Castle Road"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f1",
+        "product_id": "6814d3abbcd9b504d290b05c",
+        "size_id": "6814d3abbcd9b504d290b05f",
+        "product_title": "Brugge Linen Pillow",
+        "size": "12\" x 22\"",
+        "price": 2990000,
+        "discountPercentage": 20,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 2392000,
+    "shippingFee": 40000,
+    "note": "Suadeo contigo voluntarius xiphias cinis.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "momo"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6715",
+    "createdAt": "2025-05-04T01:16:21.291Z",
+    "userId": "6823025b1f98de2bb173e483",
+    "userInfo": {
+      "fullName": "Monica Spinka-Weber MD",
+      "phone": "1-375-870-4044 x84293",
+      "province": "Gia Lai",
+      "district": "Huyện Kông Chro",
+      "commune": "Xã Kông Yang",
+      "detail": "148 W Front Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6715",
+        "product_id": "68149cfd30a898aab1f0439b",
+        "size_id": "68149cfd30a898aab1f0439d",
+        "product_title": "Pastille Sofa",
+        "size": "80\"",
+        "price": 249470000,
+        "discountPercentage": 25,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 187102500,
+    "shippingFee": 0,
+    "note": "Cubo sublime aequitas eos solvo.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b671e",
+    "createdAt": "2025-05-04T03:33:24.901Z",
+    "userId": "6822d08bc08fdfcf24d498f9",
+    "userInfo": {
+      "fullName": "Mrs. Claire Harvey",
+      "phone": "733.760.2755 x90367",
+      "province": "Tuyên Quang",
+      "district": "Thành phố Tuyên Quang",
+      "commune": "Phường Nông Tiến",
+      "detail": "198 Boehm Underpass"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b671e",
+        "product_id": "6814c2ca511161f3045acc24",
+        "size_id": "6814c2ca511161f3045acc25",
+        "product_title": "Eames Table",
+        "size": "30\"",
+        "price": 36270000,
+        "discountPercentage": 29,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671e",
+        "product_id": "68149cfe30a898aab1f043d1",
+        "size_id": "68149cfe30a898aab1f043d2",
+        "product_title": "Muse Corner Sectional",
+        "size": "Four Seat",
+        "price": 181870000,
+        "discountPercentage": 23,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671e",
+        "product_id": "6814d8faa6b79f1523907e9d",
+        "size_id": "6814d950a6b79f1523908030",
+        "product_title": "Formwork Box",
+        "size": "Large",
+        "price": 1560000,
+        "discountPercentage": 14,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671e",
+        "product_id": "6814cabe1780e5204676cdf7",
+        "size_id": "6814cabe1780e5204676cdf9",
+        "product_title": "Sheepskin Pillow",
+        "size": "18\" x 18\"",
+        "price": 4160000,
+        "discountPercentage": 15,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 172010800,
+    "shippingFee": 0,
+    "note": "Studio voluptate admitto cometes denique.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b66ff",
+    "createdAt": "2025-05-04T14:57:25.325Z",
+    "userId": "6822d089c08fdfcf24d4986b",
+    "userInfo": {
+      "fullName": "Norma Schiller",
+      "phone": "(345) 259-0215",
+      "province": "Quảng Bình",
+      "district": "Huyện Minh Hóa",
+      "commune": "Thị trấn Quy Đạt",
+      "detail": "2135 Schultz Crescent"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b66ff",
+        "product_id": "6814bcdd958ad8fcad8c5412",
+        "size_id": "6814bcdd958ad8fcad8c5418",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "72\"",
+        "price": 163670000,
+        "discountPercentage": 23,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 252051800,
+    "shippingFee": 0,
+    "note": "Comparo sulum victus canto triumphus.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b6708",
+    "createdAt": "2025-05-05T11:20:40.644Z",
+    "userId": "6822d073c08fdfcf24d494ab",
+    "userInfo": {
+      "fullName": "Joan McKenzie II",
+      "phone": "230-235-3421 x0551",
+      "province": "Bà Rịa - Vũng Tàu",
+      "district": "Thành phố Bà Rịa",
+      "commune": "Phường Phước Hưng",
+      "detail": "45526 Swift Harbor"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b6708",
+        "product_id": "6814af8df38840c4bcc37eb8",
+        "size_id": "6814af8df38840c4bcc37eba",
+        "product_title": "Yoko Coffee Table",
+        "size": "Square",
+        "price": 83070000,
+        "discountPercentage": 14,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 71440200,
+    "shippingFee": 0,
+    "note": "Culpa stips denego voluptatem vir.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b672f",
+    "createdAt": "2025-05-05T14:32:32.977Z",
+    "userId": "6822d07dc08fdfcf24d49633",
+    "userInfo": {
+      "fullName": "Alberto Mraz-Boyer",
+      "phone": "354-333-2587 x978",
+      "province": "Long An",
+      "district": "Huyện Châu Thành",
+      "commune": "Xã Hòa Phú",
+      "detail": "9861 Von Ford"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b672f",
+        "product_id": "6814c03933cd17d446b063a8",
+        "size_id": "6814c03933cd17d446b063a9",
+        "product_title": "Eames Table",
+        "size": "30\"",
+        "price": 36270000,
+        "discountPercentage": 16,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e499ead5ad4123b672f",
+        "product_id": "6814bf396172128284c9befc",
+        "size_id": "6814bf396172128284c9bf00",
+        "product_title": "Eames Table",
+        "size": "36\" x 72\"",
+        "price": 59670000,
+        "discountPercentage": 25,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b672f",
+        "product_id": "6814be18a67388b7fa2b03bc",
+        "size_id": "6814be18a67388b7fa2b03bf",
+        "product_title": "Eames Table",
+        "size": "36\" x 36\"",
+        "price": 36270000,
+        "discountPercentage": 18,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b672f",
+        "product_id": "6814c740b44fb7a9e6cbb48a",
+        "size_id": "6814c740b44fb7a9e6cbb48e",
+        "product_title": "Nelson Thin Edge Bed",
+        "size": "King",
+        "price": 129870000,
+        "discountPercentage": 25,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 232830000,
+    "shippingFee": 0,
+    "note": "Libero alias vulnero spiritus catena.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6721",
+    "createdAt": "2025-05-05T16:27:15.954Z",
+    "userId": "6822d074c08fdfcf24d4951d",
+    "userInfo": {
+      "fullName": "Shannon Raynor",
+      "phone": "1-519-468-8683",
+      "province": "Thái Bình",
+      "district": "Huyện Thái Thụy",
+      "commune": "Xã Thái Thịnh",
+      "detail": "99799 Lowe Glens"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6721",
+        "product_id": "6814c03933cd17d446b06398",
+        "size_id": "6814c03933cd17d446b0639d",
+        "product_title": "Eames Table",
+        "size": "48\"",
+        "price": 59670000,
+        "discountPercentage": 14,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 51316200,
+    "shippingFee": 0,
+    "note": "Verbera taceo depopulo canonicus quia.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6700",
+    "createdAt": "2025-05-05T21:41:42.331Z",
+    "userId": "6822d06dc08fdfcf24d4941b",
+    "userInfo": {
+      "fullName": "Marcia Nicolas-Wolf",
+      "phone": "903-721-2330 x6918",
+      "province": "Đồng Nai",
+      "district": "Huyện Thống Nhất",
+      "commune": "Xã Lộ 25",
+      "detail": "42339 Abelardo Lakes"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6700",
+        "product_id": "6814d8faa6b79f1523907ee9",
+        "size_id": "6814d8faa6b79f1523907eea",
+        "product_title": "Colour Frame Mirror",
+        "size": "Small",
+        "price": 20540000,
+        "discountPercentage": 26,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e469ead5ad4123b6700",
+        "product_id": "6814ccc358f78c505fea9670",
+        "size_id": "6814ccc358f78c505fea9673",
+        "product_title": "Miro Dresser",
+        "size": "Wide",
+        "price": 98670000,
+        "discountPercentage": 29,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e469ead5ad4123b6700",
+        "product_id": "6814d3abbcd9b504d290b07f",
+        "size_id": "6814d3abbcd9b504d290b080",
+        "product_title": "Sheepskin Pillow",
+        "size": "11\" x 21\"",
+        "price": 3380000,
+        "discountPercentage": 12,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e469ead5ad4123b6700",
+        "product_id": "6814c03933cd17d446b06368",
+        "size_id": "6814c03933cd17d446b0636b",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 12,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 127583300,
+    "shippingFee": 0,
+    "note": "Aestas strues veniam tumultus adficio.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6704",
+    "createdAt": "2025-05-06T02:07:05.224Z",
+    "userId": "6822d07dc08fdfcf24d49661",
+    "userInfo": {
+      "fullName": "Connie Vandervort",
+      "phone": "799.427.4061 x8542",
+      "province": "Hà Tĩnh",
+      "district": "Huyện Can Lộc",
+      "commune": "Xã Tùng Lộc",
+      "detail": "378 Alyson Harbor"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6704",
+        "product_id": "6814a1941c10fee4a5286da2",
+        "size_id": "6814a1941c10fee4a5286da3",
+        "product_title": "Folk Ladder Shelving",
+        "size": "18\"",
+        "price": 25870000,
+        "discountPercentage": 26,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 19143800,
+    "shippingFee": 0,
+    "note": "Antea dens harum subiungo sopor.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f6",
+    "createdAt": "2025-05-06T19:07:33.384Z",
+    "userId": "6822d06bc08fdfcf24d49385",
+    "userInfo": {
+      "fullName": "Darrel Lindgren",
+      "phone": "540-901-8092",
+      "province": "Cần Thơ",
+      "district": "Quận Bình Thuỷ",
+      "commune": "Phường Long Hòa",
+      "detail": "2354 Will Forges"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f6",
+        "product_id": "6814d4dbd4982e02496b6368",
+        "size_id": "6814d4dbd4982e02496b636a",
+        "product_title": "Cedar Top for Geometric Fire Pit",
+        "size": "40\"",
+        "price": 7670000,
+        "discountPercentage": 12,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66f6",
+        "product_id": "6814c740b44fb7a9e6cbb498",
+        "size_id": "6814c740b44fb7a9e6cbb49a",
+        "product_title": "Sumu Bed",
+        "size": "King",
+        "price": 85670000,
+        "discountPercentage": 24,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66f6",
+        "product_id": "6814d8faa6b79f1523907eac",
+        "size_id": "6814d8faa6b79f1523907eaf",
+        "product_title": "Korbo Handmade Wire Basket",
+        "size": "Large",
+        "price": 8190000,
+        "discountPercentage": 22,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66f6",
+        "product_id": "6814af8df38840c4bcc37ecf",
+        "size_id": "6814af8df38840c4bcc37ed0",
+        "product_title": "Eames Rectangular Coffee Table",
+        "size": "22\" x 36\"",
+        "price": 26000000,
+        "discountPercentage": 14,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 129355200,
+    "shippingFee": 0,
+    "note": "Derelinquo capillus adulatio adstringo vivo.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66ee",
+    "createdAt": "2025-05-06T19:42:00.790Z",
+    "userId": "6822d06bc08fdfcf24d49399",
+    "userInfo": {
+      "fullName": "Randy McKenzie I",
+      "phone": "906-336-4568 x2002",
+      "province": "Đà Nẵng",
+      "district": "Quận Cẩm Lệ",
+      "commune": "Phường Hòa Xuân",
+      "detail": "9127 Lexie Drives"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66ee",
+        "product_id": "6814d31019ffed8d9ec6b562",
+        "size_id": "6814d31019ffed8d9ec6b565",
+        "product_title": "Silent Vase",
+        "size": "Large",
+        "price": 2834000,
+        "discountPercentage": 26,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 2097160,
+    "shippingFee": 40000,
+    "note": "Varius aeger arca dens approbo.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e5",
+    "createdAt": "2025-05-07T02:49:15.619Z",
+    "userId": "682302731f98de2bb173e831",
+    "userInfo": {
+      "fullName": "Pat Lind",
+      "phone": "319-850-5243 x238",
+      "province": "Hà Nội",
+      "district": "Quận Cầu Giấy",
+      "commune": "Phường Nghĩa Tân",
+      "detail": "45562 Gregoria Lodge"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e5",
+        "product_id": "6814c2cb511161f3045acc48",
+        "size_id": "6814c2cb511161f3045acc49",
+        "product_title": "Copenhague 20 Dining Table 2.0",
+        "size": "47.25\"",
+        "price": 31070000,
+        "discountPercentage": 27,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e5",
+        "product_id": "6814c3b3595891202e483a90",
+        "size_id": "6814c3b3595891202e483a94",
+        "product_title": "Eames Table",
+        "size": "36\" x 72\"",
+        "price": 59670000,
+        "discountPercentage": 10,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 76384100,
+    "shippingFee": 0,
+    "note": "Varius abbas mollitia arbustum autus.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6718",
+    "createdAt": "2025-05-07T03:23:16.588Z",
+    "userId": "6822d089c08fdfcf24d49881",
+    "userInfo": {
+      "fullName": "Louise Rutherford",
+      "phone": "1-669-431-0849 x49726",
+      "province": "Nghệ An",
+      "district": "Huyện Anh Sơn",
+      "commune": "Xã Bình Sơn",
+      "detail": "43856 Tremblay Square"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6718",
+        "product_id": "6814be17a67388b7fa2b0370",
+        "size_id": "6814be17a67388b7fa2b0371",
+        "product_title": "OE1 Table",
+        "size": "18 x 48",
+        "price": 18070000,
+        "discountPercentage": 21,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 14275300,
+    "shippingFee": 0,
+    "note": "Quae cruentus magni bis ara.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 14275300
+    },
+    "paymentMethod": "zalopay"
+  },
+  {
+    "_id": "68522e429ead5ad4123b66cf",
+    "createdAt": "2025-05-07T05:06:14.786Z",
+    "userId": "6822d092c08fdfcf24d49a23",
+    "userInfo": {
+      "fullName": "Leroy Lang",
+      "phone": "692.642.1448 x10482",
+      "province": "Quảng Ngãi",
+      "district": "Huyện Sơn Hà",
+      "commune": "Xã Sơn Cao",
+      "detail": "68648 5th Avenue"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e429ead5ad4123b66cf",
+        "product_id": "6814c2ca511161f3045acbd8",
+        "size_id": "6814c2ca511161f3045acbd9",
+        "product_title": "OE1 Table",
+        "size": "18 x 48",
+        "price": 18070000,
+        "discountPercentage": 23,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 13913900,
+    "shippingFee": 0,
+    "note": "Neque cornu ciminatio impedit aliquam.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e4a9ead5ad4123b6735",
+    "createdAt": "2025-05-07T22:36:12.584Z",
+    "userId": "6822d09ec08fdfcf24d49c2f",
+    "userInfo": {
+      "fullName": "Bridget Bartoletti II",
+      "phone": "785.591.1147 x0963",
+      "province": "Thái Nguyên",
+      "district": "Huyện Phú Bình",
+      "commune": "Xã Tân Thành",
+      "detail": "35695 Keyon Motorway"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e4a9ead5ad4123b6735",
+        "product_id": "6814c103ca19a92a5b1d5b13",
+        "size_id": "6814c103ca19a92a5b1d5b16",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 28,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e4a9ead5ad4123b6735",
+        "product_id": "6814c741b44fb7a9e6cbb4a6",
+        "size_id": "6814c741b44fb7a9e6cbb4a7",
+        "product_title": "Nest Storage Bed",
+        "size": "Twin",
+        "price": 90870000,
+        "discountPercentage": 10,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 96665400,
+    "shippingFee": 0,
+    "note": "Admoveo tutis tempore doloribus cito.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b66fd",
+    "createdAt": "2025-05-08T17:26:39.113Z",
+    "userId": "6822d06ec08fdfcf24d49447",
+    "userInfo": {
+      "fullName": "Dr. Tommy Emmerich-Kub Sr.",
+      "phone": "758-462-5191 x8199",
+      "province": "Hải Phòng",
+      "district": "Quận Kiến An",
+      "commune": "Phường Quán Trữ",
+      "detail": "7652 Hiram Crest"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b66fd",
+        "product_id": "6814d49dabc2c4bf4ecaf51e",
+        "size_id": "6814d49dabc2c4bf4ecaf520",
+        "product_title": "Matera Storage Bench Cushion",
+        "size": "Large",
+        "price": 11570000,
+        "discountPercentage": 14,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 19900400,
+    "shippingFee": 0,
+    "note": "Aer claudeo apostolus nesciunt odit.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6731",
+    "createdAt": "2025-05-09T03:37:19.552Z",
+    "userId": "6822d0a7c08fdfcf24d49db7",
+    "userInfo": {
+      "fullName": "Connie Daugherty",
+      "phone": "860-518-0169 x750",
+      "province": "Phú Thọ",
+      "district": "Huyện Hạ Hoà",
+      "commune": "Xã Ấm Hạ",
+      "detail": "278 Honeysuckle Close"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6731",
+        "product_id": "6814d3abbcd9b504d290b05c",
+        "size_id": "6814d3abbcd9b504d290b05e",
+        "product_title": "Brugge Linen Pillow",
+        "size": "22\" x 22\"",
+        "price": 4550000,
+        "discountPercentage": 20,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 7280000,
+    "shippingFee": 0,
+    "note": "Cotidie caute aperiam suus benevolentia.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b672e",
+    "createdAt": "2025-05-09T12:39:51.763Z",
+    "userId": "6822d074c08fdfcf24d49509",
+    "userInfo": {
+      "fullName": "Blanche Hegmann",
+      "phone": "326.409.1286",
+      "province": "Hồ Chí Minh",
+      "district": "Quận 5",
+      "commune": "Phường 05",
+      "detail": "902 Leannon Cove"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b672e",
+        "product_id": "6814c2ca511161f3045acbf0",
+        "size_id": "6814c2ca511161f3045acbf6",
+        "product_title": "Eames Table",
+        "size": "30\" x 30\"",
+        "price": 36270000,
+        "discountPercentage": 22,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 28290600,
+    "shippingFee": 0,
+    "note": "Aiunt atqui eaque spero crustulum.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66dc",
+    "createdAt": "2025-05-09T12:50:57.418Z",
+    "userId": "6823e65859170eb65398fb52",
+    "userInfo": {
+      "fullName": "Edmond Hintz",
+      "phone": "422-473-8483",
+      "province": "Kon Tum",
+      "district": "Huyện Kon Plông",
+      "commune": "Xã Ngok Tem",
+      "detail": "1874 Helena Creek"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66dc",
+        "product_id": "6814be17a67388b7fa2b037c",
+        "size_id": "6814be17a67388b7fa2b037f",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 30,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 14469000,
+    "shippingFee": 0,
+    "note": "Curto decor subseco ubi tum.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b670b",
+    "createdAt": "2025-05-10T02:00:26.276Z",
+    "userId": "6822d07fc08fdfcf24d496c3",
+    "userInfo": {
+      "fullName": "Kathleen Krajcik",
+      "phone": "(415) 309-6277 x0617",
+      "province": "Sóc Trăng",
+      "district": "Huyện Cù Lao Dung",
+      "commune": "Xã An Thạnh Tây",
+      "detail": "406 DuBuque Port"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b670b",
+        "product_id": "6814b499db8e7421d9054829",
+        "size_id": "6814b499db8e7421d905482b",
+        "product_title": "Ridge Vase",
+        "size": "13.8\"",
+        "price": 3614000,
+        "discountPercentage": 27,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 2638220,
+    "shippingFee": 40000,
+    "note": "Totidem advoco optio depono coaegresco.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e8",
+    "createdAt": "2025-05-10T05:11:04.631Z",
+    "userId": "682302631f98de2bb173e5ab",
+    "userInfo": {
+      "fullName": "Donald Franey",
+      "phone": "(910) 636-2416 x1336",
+      "province": "Hà Giang",
+      "district": "Huyện Hoàng Su Phì",
+      "commune": "Xã Chiến Phố",
+      "detail": "8953 Lubowitz Light"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e8",
+        "product_id": "6814cabe1780e5204676cde3",
+        "size_id": "6814cabe1780e5204676cde5",
+        "product_title": "Sheepskin Throw",
+        "size": "Quadrat",
+        "price": 14170000,
+        "discountPercentage": 20,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e8",
+        "product_id": "6814c2ca511161f3045acbc2",
+        "size_id": "6814c2ca511161f3045acbc7",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "60\"",
+        "price": 163670000,
+        "discountPercentage": 22,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e8",
+        "product_id": "6814d4dbd4982e02496b6368",
+        "size_id": "6814d4dbd4982e02496b6369",
+        "product_title": "Cedar Top for Geometric Fire Pit",
+        "size": "30\"",
+        "price": 6370000,
+        "discountPercentage": 12,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e8",
+        "product_id": "6814b49adb8e7421d905484e",
+        "size_id": "6814b49adb8e7421d9054850",
+        "product_title": "Kauffmann Mirrors",
+        "size": "36\" x 48\"",
+        "price": 27170000,
+        "discountPercentage": 17,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 167155300,
+    "shippingFee": 0,
+    "note": "Barba contra curriculum ater magnam.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e4a9ead5ad4123b6732",
+    "createdAt": "2025-05-10T05:44:38.792Z",
+    "userId": "6822d0a5c08fdfcf24d49d4d",
+    "userInfo": {
+      "fullName": "Carolyn Sporer",
+      "phone": "231-331-9342",
+      "province": "Phú Yên",
+      "district": "Thành phố Tuy Hoà",
+      "commune": "Phường 8",
+      "detail": "13907 Fadel Trace"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e4a9ead5ad4123b6732",
+        "product_id": "6814bf386172128284c9beaa",
+        "size_id": "6814bf386172128284c9beae",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "54\"",
+        "price": 119470000,
+        "discountPercentage": 22,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 186373200,
+    "shippingFee": 0,
+    "note": "Nihil tutamen vulgaris alter cognatus.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e499ead5ad4123b672b",
+    "createdAt": "2025-05-11T07:09:24.745Z",
+    "userId": "6822d09cc08fdfcf24d49ba1",
+    "userInfo": {
+      "fullName": "Archie Labadie Sr.",
+      "phone": "(677) 591-3044 x9994",
+      "province": "Vĩnh Phúc",
+      "district": "Huyện Tam Đảo",
+      "commune": "Xã Yên Dương",
+      "detail": "4899 North Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b672b",
+        "product_id": "6814d518d4982e02496b648e",
+        "size_id": "6814d518d4982e02496b6490",
+        "product_title": "Lilo Pool Float",
+        "size": "Double",
+        "price": 41470000,
+        "discountPercentage": 13,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 36078900,
+    "shippingFee": 0,
+    "note": "Cohibeo itaque tamquam surgo votum.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66ea",
+    "createdAt": "2025-05-11T07:15:47.394Z",
+    "userId": "6822d08cc08fdfcf24d49923",
+    "userInfo": {
+      "fullName": "Angel Upton",
+      "phone": "268.369.9185 x35802",
+      "province": "Phú Thọ",
+      "district": "Huyện Thanh Thuỷ",
+      "commune": "Xã Tu Vũ",
+      "detail": "4979 Katelin Trace"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66ea",
+        "product_id": "6814a1931c10fee4a5286d69",
+        "size_id": "6814a1931c10fee4a5286d6a",
+        "product_title": "Eames Storage Unit",
+        "size": "1x1",
+        "price": 20670000,
+        "discountPercentage": 25,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66ea",
+        "product_id": "6814c2cb511161f3045acc48",
+        "size_id": "6814c2cb511161f3045acc4a",
+        "product_title": "Copenhague 20 Dining Table 2.0",
+        "size": "35.25\"",
+        "price": 25870000,
+        "discountPercentage": 27,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66ea",
+        "product_id": "6814af8ef38840c4bcc37ef0",
+        "size_id": "6814af8ef38840c4bcc37ef2",
+        "product_title": "Girard Flower Table",
+        "size": "Large",
+        "price": 33670000,
+        "discountPercentage": 26,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66ea",
+        "product_id": "6814c75737cb2b415f50f04f",
+        "size_id": "6814c75737cb2b415f50f051",
+        "product_title": "Demi Bed",
+        "size": "Full",
+        "price": 92170000,
+        "discountPercentage": 14,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 154072100,
+    "shippingFee": 0,
+    "note": "Tempore occaecati saepe sufficio laborum.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6716",
+    "createdAt": "2025-05-11T16:00:18.892Z",
+    "userId": "6822d0a4c08fdfcf24d49d19",
+    "userInfo": {
+      "fullName": "Stella Gutmann",
+      "phone": "1-274-222-0197 x420",
+      "province": "Yên Bái",
+      "district": "Huyện Trấn Yên",
+      "commune": "Xã Bảo Hưng",
+      "detail": "8384 S Broadway Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6716",
+        "product_id": "6814daff48198c3c05074c2f",
+        "size_id": "6814daff48198c3c05074c30",
+        "product_title": "Afteroom Coat Hanger",
+        "size": "Standard",
+        "price": 4550000,
+        "discountPercentage": 21,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 3594500,
+    "shippingFee": 40000,
+    "note": "Considero velociter illum accusantium recusandae.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "zalopay"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66db",
+    "createdAt": "2025-05-12T08:42:43.206Z",
+    "userId": "682302741f98de2bb173e895",
+    "userInfo": {
+      "fullName": "Marc Emmerich II",
+      "phone": "(881) 433-0196 x0533",
+      "province": "Thái Bình",
+      "district": "Huyện Thái Thụy",
+      "commune": "Xã Thụy Sơn",
+      "detail": "71594 Kasandra Port"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66db",
+        "product_id": "6814d007dac5e44185ec220c",
+        "size_id": "6814d007dac5e44185ec220f",
+        "product_title": "Nelson Platform Bench",
+        "size": "72\"",
+        "price": 57070000,
+        "discountPercentage": 23,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66db",
+        "product_id": "68149cfe30a898aab1f043d1",
+        "size_id": "68149cfe30a898aab1f043d3",
+        "product_title": "Muse Corner Sectional",
+        "size": "Five Seat",
+        "price": 207870000,
+        "discountPercentage": 23,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 204003800,
+    "shippingFee": 0,
+    "note": "Repellat congregatio vesco tondeo crapula.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b6713",
+    "createdAt": "2025-05-12T12:30:59.942Z",
+    "userId": "6822d09bc08fdfcf24d49b87",
+    "userInfo": {
+      "fullName": "Jennifer Tromp",
+      "phone": "(347) 344-2511",
+      "province": "Bình Định",
+      "district": "Huyện Tây Sơn",
+      "commune": "Xã Tây Giang",
+      "detail": "4767 Howell Meadows"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b6713",
+        "product_id": "6814d8faa6b79f1523907ea4",
+        "size_id": "6814d8faa6b79f1523907ea5",
+        "product_title": "Formwork Tray",
+        "size": "Small",
+        "price": 650000,
+        "discountPercentage": 12,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 572000,
+    "shippingFee": 40000,
+    "note": "Sol vaco tabella absconditus ab.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f4",
+    "createdAt": "2025-05-12T16:34:25.646Z",
+    "userId": "6822d069c08fdfcf24d492e5",
+    "userInfo": {
+      "fullName": "Lynda Kautzer IV",
+      "phone": "709-962-0585",
+      "province": "Gia Lai",
+      "district": "Huyện Ia Grai",
+      "commune": "Xã Ia KRai",
+      "detail": "87079 Nelson Road"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f4",
+        "product_id": "6814d49dabc2c4bf4ecaf516",
+        "size_id": "6814d49dabc2c4bf4ecaf517",
+        "product_title": "Nelson Platform Bench Cushion",
+        "size": "24\"",
+        "price": 11570000,
+        "discountPercentage": 20,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 18512000,
+    "shippingFee": 0,
+    "note": "Temptatio calcar ancilla attollo tamquam.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66eb",
+    "createdAt": "2025-05-12T18:34:15.188Z",
+    "userId": "6822d082c08fdfcf24d497ab",
+    "userInfo": {
+      "fullName": "Miss Bernice DuBuque",
+      "phone": "983.640.3572 x603",
+      "province": "Bình Dương",
+      "district": "Thị xã Bến Cát",
+      "commune": "Xã Phú An",
+      "detail": "3988 Ernser Pike"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66eb",
+        "product_id": "6814d31019ffed8d9ec6b562",
+        "size_id": "6814d31019ffed8d9ec6b564",
+        "product_title": "Silent Vase",
+        "size": "Medium",
+        "price": 2210000,
+        "discountPercentage": 26,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66eb",
+        "product_id": "6814a81835053cb1544dd139",
+        "size_id": "6814a81835053cb1544dd13a",
+        "product_title": "Line Media Console",
+        "size": "35\"",
+        "price": 49270000,
+        "discountPercentage": 30,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66eb",
+        "product_id": "68149cfd30a898aab1f0439b",
+        "size_id": "68149cfd30a898aab1f0439d",
+        "product_title": "Pastille Sofa",
+        "size": "80\"",
+        "price": 249470000,
+        "discountPercentage": 25,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66eb",
+        "product_id": "6814cabf1780e5204676ce05",
+        "size_id": "6814cabf1780e5204676ce06",
+        "product_title": "Mega Dot Blanket",
+        "size": "Full / Queen\n                                            \n\n\n\n\ndisable-danger",
+        "price": 5070000,
+        "discountPercentage": 29,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 417528800,
+    "shippingFee": 0,
+    "note": "Pel soluta bos denuncio adduco.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 417528800
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b670a",
+    "createdAt": "2025-05-13T01:18:42.366Z",
+    "userId": "682302691f98de2bb173e675",
+    "userInfo": {
+      "fullName": "Beulah McKenzie",
+      "phone": "604-381-6512 x155",
+      "province": "Lai Châu",
+      "district": "Huyện Tam Đường",
+      "commune": "Xã Tả Lèng",
+      "detail": "74877 Jannie Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b670a",
+        "product_id": "6814be17a67388b7fa2b03a4",
+        "size_id": "6814be17a67388b7fa2b03a6",
+        "product_title": "Nelson X-Leg Table",
+        "size": "36 x 72",
+        "price": 85670000,
+        "discountPercentage": 13,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 74532900,
+    "shippingFee": 0,
+    "note": "Nemo cultellus delibero sonitus vester.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e6",
+    "createdAt": "2025-05-13T04:56:58.358Z",
+    "userId": "6823026b1f98de2bb173e6df",
+    "userInfo": {
+      "fullName": "Dr. Robin Stamm Jr.",
+      "phone": "223-489-2571",
+      "province": "Đồng Tháp",
+      "district": "Huyện Thanh Bình",
+      "commune": "Xã Tân Huề",
+      "detail": "322 Thiel Forge"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e6",
+        "product_id": "6814d8faa6b79f1523907ec4",
+        "size_id": "6814d8faa6b79f1523907ec5",
+        "product_title": "Trove Box",
+        "size": "Standard",
+        "price": 650000,
+        "discountPercentage": 29,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e6",
+        "product_id": "6814c2ca511161f3045acc24",
+        "size_id": "6814c2ca511161f3045acc28",
+        "product_title": "Eames Table",
+        "size": "36\" x 72\"",
+        "price": 36270000,
+        "discountPercentage": 29,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e6",
+        "product_id": "6814daff48198c3c05074c57",
+        "size_id": "6814daff48198c3c05074c5b",
+        "product_title": "Dots Singles",
+        "size": "2.5\"",
+        "price": 676000,
+        "discountPercentage": 23,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e6",
+        "product_id": "6814d518d4982e02496b649c",
+        "size_id": "6814d518d4982e02496b649f",
+        "product_title": "Ball Portable Lamp",
+        "size": "Large",
+        "price": 8580000,
+        "discountPercentage": 25,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 58920420,
+    "shippingFee": 0,
+    "note": "Peior curtus officia summisse tenuis.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e1",
+    "createdAt": "2025-05-13T07:32:30.591Z",
+    "userId": "6822d069c08fdfcf24d492fb",
+    "userInfo": {
+      "fullName": "Jon Rogahn",
+      "phone": "(522) 509-9317 x045",
+      "province": "Bắc Ninh",
+      "district": "Huyện Tiên Du",
+      "commune": "Xã Phú Lâm",
+      "detail": "675 Theodora Motorway"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e1",
+        "product_id": "6814c741b44fb7a9e6cbb4af",
+        "size_id": "6814c741b44fb7a9e6cbb4b1",
+        "product_title": "Emmy Bed",
+        "size": "King",
+        "price": 241670000,
+        "discountPercentage": 19,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 195752700,
+    "shippingFee": 0,
+    "note": "Vociferor sperno volo currus tempora.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6706",
+    "createdAt": "2025-05-13T20:31:41.969Z",
+    "userId": "6822d088c08fdfcf24d49827",
+    "userInfo": {
+      "fullName": "Samuel Heathcote",
+      "phone": "412-430-9693",
+      "province": "Quảng Ninh",
+      "district": "Huyện Hải Hà",
+      "commune": "Xã Quảng Minh",
+      "detail": "41855 McKenzie Rest"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6706",
+        "product_id": "6814d518d4982e02496b6496",
+        "size_id": "6814d518d4982e02496b6498",
+        "product_title": "Neutra Modern House Numbers",
+        "size": "6\"",
+        "price": 1040000,
+        "discountPercentage": 20,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 832000,
+    "shippingFee": 40000,
+    "note": "Creta vesper aggredior excepturi caute.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b671f",
+    "createdAt": "2025-05-13T20:37:12.329Z",
+    "userId": "6822d06ec08fdfcf24d49451",
+    "userInfo": {
+      "fullName": "Karl Kessler",
+      "phone": "1-767-323-8174 x4936",
+      "province": "Bình Dương",
+      "district": "Thành phố Thủ Dầu Một",
+      "commune": "Phường Phú Mỹ",
+      "detail": "8734 N Broad Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b671f",
+        "product_id": "6814cd2505d66cbf2ba763c3",
+        "size_id": "6814cd2505d66cbf2ba763c4",
+        "product_title": "Vesper Sleeper Sofa",
+        "size": "Queen",
+        "price": 244270000,
+        "discountPercentage": 23,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671f",
+        "product_id": "6814c3b3595891202e483a60",
+        "size_id": "6814c3b3595891202e483a63",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 29,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671f",
+        "product_id": "6814c03933cd17d446b063a8",
+        "size_id": "6814c03933cd17d446b063a9",
+        "product_title": "Eames Table",
+        "size": "30\"",
+        "price": 36270000,
+        "discountPercentage": 16,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671f",
+        "product_id": "6814c75637cb2b415f50f031",
+        "size_id": "6814c75637cb2b415f50f032",
+        "product_title": "Demi Headboard",
+        "size": "Twin",
+        "price": 41470000,
+        "discountPercentage": 12,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 284399700,
+    "shippingFee": 0,
+    "note": "Expedita adinventitias pauper ullus templum.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f5",
+    "createdAt": "2025-05-14T03:18:32.048Z",
+    "userId": "6822d08cc08fdfcf24d49943",
+    "userInfo": {
+      "fullName": "Violet Klein",
+      "phone": "(784) 801-3333 x957",
+      "province": "Hà Nam",
+      "district": "Huyện Bình Lục",
+      "commune": "Xã Trung Lương",
+      "detail": "37322 The Sidings"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f5",
+        "product_id": "6814d8faa6b79f1523907ed1",
+        "size_id": "6814d8faa6b79f1523907ed2",
+        "product_title": "Brodie Wall Hook",
+        "size": "Small",
+        "price": 2000,
+        "discountPercentage": 20,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 1600,
+    "shippingFee": 40000,
+    "note": "Curso depraedor corona utrimque sophismata.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e7",
+    "createdAt": "2025-05-14T19:19:58.159Z",
+    "userId": "68522df187670402f8d56ec5",
+    "userInfo": {
+      "fullName": "Jeannie Lowe",
+      "phone": "720-862-3284 x617",
+      "province": "Hà Nội",
+      "district": "Quận Bắc Từ Liêm",
+      "commune": "Phường Phú Diễn",
+      "detail": "5955 S 9th Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e7",
+        "product_id": "6814be18a67388b7fa2b03cc",
+        "size_id": "6814be18a67388b7fa2b03d0",
+        "product_title": "OE1 Table",
+        "size": "30 x 72",
+        "price": 21970000,
+        "discountPercentage": 29,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e7",
+        "product_id": "6814bcdd958ad8fcad8c546f",
+        "size_id": "6814bcdd958ad8fcad8c5471",
+        "product_title": "OE1 Table",
+        "size": "24 x 48",
+        "price": 19370000,
+        "discountPercentage": 22,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e7",
+        "product_id": "6814d8faa6b79f1523907e9d",
+        "size_id": "6814d950a6b79f1523908030",
+        "product_title": "Formwork Box",
+        "size": "Large",
+        "price": 1560000,
+        "discountPercentage": 14,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e7",
+        "product_id": "6814d4dbd4982e02496b635c",
+        "size_id": "6814d4dbd4982e02496b635d",
+        "product_title": "Geometric Fire Pit Steel Grate Top",
+        "size": "30\"",
+        "price": 7670000,
+        "discountPercentage": 16,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 39833300,
+    "shippingFee": 0,
+    "note": "Caelum cubitum voluntarius cunctatio canonicus.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e479ead5ad4123b670e",
+    "createdAt": "2025-05-14T22:13:40.799Z",
+    "userId": "682302731f98de2bb173e849",
+    "userInfo": {
+      "fullName": "Keith Howe",
+      "phone": "1-619-825-2265 x37186",
+      "province": "Điện Biên",
+      "district": "Huyện Điện Biên",
+      "commune": "Xã Mường Pồn",
+      "detail": "41847 Clemmie Extension"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b670e",
+        "product_id": "6814c03a33cd17d446b063e1",
+        "size_id": "6814c03a33cd17d446b063e3",
+        "product_title": "Muecke Dining Table",
+        "size": "78\"",
+        "price": 109070000,
+        "discountPercentage": 25,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b670e",
+        "product_id": "6814c3b3595891202e483a90",
+        "size_id": "6814c3b3595891202e483a94",
+        "product_title": "Eames Table",
+        "size": "36\" x 72\"",
+        "price": 59670000,
+        "discountPercentage": 10,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e479ead5ad4123b670e",
+        "product_id": "6814bf386172128284c9becc",
+        "size_id": "6814bf386172128284c9bed0",
+        "product_title": "OE1 Table",
+        "size": "30 x 72",
+        "price": 21970000,
+        "discountPercentage": 18,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b670e",
+        "product_id": "6814d31019ffed8d9ec6b553",
+        "size_id": "6814d31f19ffed8d9ec6b5be",
+        "product_title": "Hemisphere Table Clock",
+        "size": "Small",
+        "price": 2600000,
+        "discountPercentage": 21,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 209277900,
+    "shippingFee": 0,
+    "note": "Decumbo admoveo valens sodalitas aliqua.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e479ead5ad4123b6710",
+    "createdAt": "2025-05-15T11:42:05.915Z",
+    "userId": "6822d082c08fdfcf24d497ab",
+    "userInfo": {
+      "fullName": "Keith Denesik",
+      "phone": "825-656-7548 x7732",
+      "province": "Khánh Hòa",
+      "district": "Huyện Trường Sa",
+      "commune": "Thị trấn Trường Sa",
+      "detail": "87013 Hessel Parkway"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b6710",
+        "product_id": "6814c3b3595891202e483a7c",
+        "size_id": "6814c3b3595891202e483a7e",
+        "product_title": "OE1 Table",
+        "size": "24 x 48",
+        "price": 19370000,
+        "discountPercentage": 26,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 14333800,
+    "shippingFee": 0,
+    "note": "Aqua supra amitto et deorsum.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d8",
+    "createdAt": "2025-05-15T14:23:40.388Z",
+    "userId": "682302711f98de2bb173e7d3",
+    "userInfo": {
+      "fullName": "Tricia Schiller",
+      "phone": "605-880-0191 x011",
+      "province": "Sóc Trăng",
+      "district": "Huyện Long Phú",
+      "commune": "Xã Song Phụng",
+      "detail": "4777 The Rise"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d8",
+        "product_id": "6814a1941c10fee4a5286da2",
+        "size_id": "6814a1941c10fee4a5286da3",
+        "product_title": "Folk Ladder Shelving",
+        "size": "18\"",
+        "price": 25870000,
+        "discountPercentage": 26,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d8",
+        "product_id": "6814d518d4982e02496b64a3",
+        "size_id": "6814d518d4982e02496b64a4",
+        "product_title": "Bullet Planter",
+        "size": "Medium",
+        "price": 5850000,
+        "discountPercentage": 11,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d8",
+        "product_id": "6814d008dac5e44185ec2241",
+        "size_id": "6814d008dac5e44185ec2242",
+        "product_title": "Pyramid Bench",
+        "size": "75\"",
+        "price": 20670000,
+        "discountPercentage": 20,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d8",
+        "product_id": "6814c2cb511161f3045acc40",
+        "size_id": "6814c2cb511161f3045acc42",
+        "product_title": "Doubleframe Table",
+        "size": "92\" x 36\"",
+        "price": 129870000,
+        "discountPercentage": 10,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 157769300,
+    "shippingFee": 0,
+    "note": "Comis defendo apud ceno vallum.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e9",
+    "createdAt": "2025-05-15T22:53:26.432Z",
+    "userId": "6823025b1f98de2bb173e48d",
+    "userInfo": {
+      "fullName": "Brian Haley",
+      "phone": "1-695-421-0216 x358",
+      "province": "Gia Lai",
+      "district": "Huyện Chư Păh",
+      "commune": "Xã Ia Ka",
+      "detail": "749 Cicero Well"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e9",
+        "product_id": "6814c1b5ba01e3aab8f3f3f8",
+        "size_id": "6814c1b5ba01e3aab8f3f3fc",
+        "product_title": "OE1 Table",
+        "size": "30 x 72",
+        "price": 21970000,
+        "discountPercentage": 24,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 16697200,
+    "shippingFee": 0,
+    "note": "Magnam aequitas adeo curso tego.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b672c",
+    "createdAt": "2025-05-15T23:57:57.964Z",
+    "userId": "6822d073c08fdfcf24d494a7",
+    "userInfo": {
+      "fullName": "Kent Kuhic",
+      "phone": "810.881.2217 x666",
+      "province": "Bến Tre",
+      "district": "Huyện Châu Thành",
+      "commune": "Xã Sơn Hòa",
+      "detail": "17390 Bailey Mews"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b672c",
+        "product_id": "6814c830fd4ffab5ca02f720",
+        "size_id": "6814c830fd4ffab5ca02f721",
+        "product_title": "Shim Table",
+        "size": "High\n                                            \n\n\n\n\ndisable-danger",
+        "price": 12870000,
+        "discountPercentage": 28,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 9266400,
+    "shippingFee": 0,
+    "note": "Dolorum adhaero aveho eaque blandior.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b66fb",
+    "createdAt": "2025-05-16T06:55:58.140Z",
+    "userId": "6823025d1f98de2bb173e4ed",
+    "userInfo": {
+      "fullName": "Warren Wiza",
+      "phone": "956-458-9016 x12272",
+      "province": "Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "commune": "Phường Hòa Cường Nam",
+      "detail": "107 Emard Spurs"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b66fb",
+        "product_id": "6814c3b2595891202e483a3e",
+        "size_id": "6814c3b2595891202e483a44",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "72\"",
+        "price": 163670000,
+        "discountPercentage": 12,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 144029600,
+    "shippingFee": 0,
+    "note": "Advoco defluo statim inflammatio deripio.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b671c",
+    "createdAt": "2025-05-16T06:59:56.688Z",
+    "userId": "6822d06ec08fdfcf24d49457",
+    "userInfo": {
+      "fullName": "Phil Shanahan",
+      "phone": "437.417.0109 x888",
+      "province": "Kon Tum",
+      "district": "Huyện Sa Thầy",
+      "commune": "Xã Sa Bình",
+      "detail": "182 Veterans Memorial Drive"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b671c",
+        "product_id": "6814d886eb6e44f9df4dc000",
+        "size_id": "6814d8d2eb6e44f9df4dc0f8",
+        "product_title": "Formwork Box",
+        "size": "Large",
+        "price": 1560000,
+        "discountPercentage": 14,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 2683200,
+    "shippingFee": 40000,
+    "note": "Tolero corona amplitudo veritatis dolores.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d7",
+    "createdAt": "2025-05-16T18:10:01.095Z",
+    "userId": "6823025c1f98de2bb173e4a1",
+    "userInfo": {
+      "fullName": "Jody Ziemann",
+      "phone": "1-788-263-6812 x02133",
+      "province": "Bình Dương",
+      "district": "Thị xã Tân Uyên",
+      "commune": "Phường Vĩnh Tân",
+      "detail": "629 Hayes Way"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d7",
+        "product_id": "6814d245995813a18f27d92c",
+        "size_id": "6814d245995813a18f27d92e",
+        "product_title": "Untitled (Red), Mexico City, 2024",
+        "size": "30\" x 40\"",
+        "price": 38870000,
+        "discountPercentage": 16,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 32650800,
+    "shippingFee": 0,
+    "note": "Officia ab tertius odit adhuc.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b6712",
+    "createdAt": "2025-05-16T22:58:16.450Z",
+    "userId": "6822d099c08fdfcf24d49af7",
+    "userInfo": {
+      "fullName": "Marsha Keebler Sr.",
+      "phone": "963.979.7360 x06684",
+      "province": "Vĩnh Phúc",
+      "district": "Thành phố Phúc Yên",
+      "commune": "Xã Ngọc Thanh",
+      "detail": "74863 W 8th Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b6712",
+        "product_id": "6814b49adb8e7421d905484e",
+        "size_id": "6814b49adb8e7421d905484f",
+        "product_title": "Kauffmann Mirrors",
+        "size": "36\" x 84\"",
+        "price": 47970000,
+        "discountPercentage": 17,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b6712",
+        "product_id": "68149cfd30a898aab1f043a1",
+        "size_id": "68149cfd30a898aab1f043a2",
+        "product_title": "Pastille Sectional Chaise",
+        "size": "80\"",
+        "price": 276770000,
+        "discountPercentage": 27,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 443899300,
+    "shippingFee": 0,
+    "note": "Succedo virga velociter anser bene.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e4a9ead5ad4123b6733",
+    "createdAt": "2025-05-17T00:18:15.900Z",
+    "userId": "6822d08cc08fdfcf24d4991f",
+    "userInfo": {
+      "fullName": "Ashley Terry",
+      "phone": "601.318.6689 x21893",
+      "province": "Đà Nẵng",
+      "district": "Quận Sơn Trà",
+      "commune": "Phường An Hải Tây",
+      "detail": "2392 Lebsack Viaduct"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e4a9ead5ad4123b6733",
+        "product_id": "68149cfd30a898aab1f04395",
+        "size_id": "68149cfd30a898aab1f04396",
+        "product_title": "Emmy Sofa",
+        "size": "92\"",
+        "price": 239070000,
+        "discountPercentage": 20,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e4a9ead5ad4123b6733",
+        "product_id": "6814c3b3595891202e483aa0",
+        "size_id": "6814c3b3595891202e483aa5",
+        "product_title": "Eames Table",
+        "size": "48\"",
+        "price": 36270000,
+        "discountPercentage": 15,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e4a9ead5ad4123b6733",
+        "product_id": "6814bf396172128284c9bf0c",
+        "size_id": "6814bf396172128284c9bf0e",
+        "product_title": "Eames Table",
+        "size": "36\"",
+        "price": 36270000,
+        "discountPercentage": 26,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e4a9ead5ad4123b6733",
+        "product_id": "6814c740b44fb7a9e6cbb46b",
+        "size_id": "6814c740b44fb7a9e6cbb46d",
+        "product_title": "Lull Bed",
+        "size": "King",
+        "price": 114270000,
+        "discountPercentage": 21,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 366038400,
+    "shippingFee": 0,
+    "note": "Corona conicio appositus accusamus copia.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "momo"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6726",
+    "createdAt": "2025-05-17T03:46:57.580Z",
+    "userId": "6822d093c08fdfcf24d49a79",
+    "userInfo": {
+      "fullName": "Betsy Keeling",
+      "phone": "1-918-641-4973 x9662",
+      "province": "Thái Nguyên",
+      "district": "Thị xã Phổ Yên",
+      "commune": "Xã Nam Tiến",
+      "detail": "6235 Daren Spring"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6726",
+        "product_id": "6814d3aabcd9b504d290b01c",
+        "size_id": "6814d3aabcd9b504d290b01d",
+        "product_title": "Cotton Velvet Pillow",
+        "size": "18\" x 18\"",
+        "price": 3380000,
+        "discountPercentage": 21,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 2670200,
+    "shippingFee": 40000,
+    "note": "Demonstro carpo torqueo beatae curvo.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "zalopay"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d9",
+    "createdAt": "2025-05-17T13:29:30.485Z",
+    "userId": "6822d088c08fdfcf24d4983f",
+    "userInfo": {
+      "fullName": "Sheri Hickle",
+      "phone": "1-596-917-5271 x93632",
+      "province": "Tây Ninh",
+      "district": "Huyện Tân Biên",
+      "commune": "Xã Mỏ Công",
+      "detail": "986 Clay Lane"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d9",
+        "product_id": "6814d8faa6b79f1523907eb6",
+        "size_id": "6814d8faa6b79f1523907eb8",
+        "product_title": "Trove Box",
+        "size": "Deep",
+        "price": 1560000,
+        "discountPercentage": 20,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 1248000,
+    "shippingFee": 40000,
+    "note": "Assumenda tepesco asperiores aspicio cribro.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b672d",
+    "createdAt": "2025-05-17T19:00:19.964Z",
+    "userId": "68522df287670402f8d56edd",
+    "userInfo": {
+      "fullName": "Marc Beatty",
+      "phone": "999.668.3656 x04441",
+      "province": "Đắk Nông",
+      "district": "Thành phố Gia Nghĩa",
+      "commune": "Phường Nghĩa Trung",
+      "detail": "5395 Ash Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b672d",
+        "product_id": "6814d886eb6e44f9df4dc00b",
+        "size_id": "6814d886eb6e44f9df4dc00c",
+        "product_title": "Formwork Bin",
+        "size": "Short",
+        "price": 1690000,
+        "discountPercentage": 28,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b672d",
+        "product_id": "6814a1931c10fee4a5286d75",
+        "size_id": "6814a1931c10fee4a5286d79",
+        "product_title": "Eames Storage Unit",
+        "size": "4x2",
+        "price": 103870000,
+        "discountPercentage": 25,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b672d",
+        "product_id": "6814af8df38840c4bcc37eb8",
+        "size_id": "6814af8df38840c4bcc37eba",
+        "product_title": "Yoko Coffee Table",
+        "size": "Square",
+        "price": 83070000,
+        "discountPercentage": 14,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e499ead5ad4123b672d",
+        "product_id": "6814d49dabc2c4bf4ecaf524",
+        "size_id": "6814d4ababc2c4bf4ecaf570",
+        "product_title": "Como Throw Pillow",
+        "size": "23\" x 23\"",
+        "price": 11570000,
+        "discountPercentage": 19,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 231371400,
+    "shippingFee": 0,
+    "note": "Aegre ciminatio subito coaegresco temperantia.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6727",
+    "createdAt": "2025-05-17T20:00:47.359Z",
+    "userId": "6822d06cc08fdfcf24d493cb",
+    "userInfo": {
+      "fullName": "Jeremiah Wuckert MD",
+      "phone": "1-357-252-0289 x2706",
+      "province": "Đồng Tháp",
+      "district": "Huyện Lấp Vò",
+      "commune": "Xã Long Hưng B",
+      "detail": "99746 Albert Road"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6727",
+        "product_id": "6814ccc358f78c505fea968c",
+        "size_id": "6814ccc358f78c505fea968e",
+        "product_title": "Line Storage Bench",
+        "size": "Large",
+        "price": 51870000,
+        "discountPercentage": 11,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6727",
+        "product_id": "6814ccc458f78c505fea9692",
+        "size_id": "6814ccc458f78c505fea9693",
+        "product_title": "Line Storage Bench",
+        "size": "Small",
+        "price": 44070000,
+        "discountPercentage": 14,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6727",
+        "product_id": "6814c740b44fb7a9e6cbb49e",
+        "size_id": "6814c740b44fb7a9e6cbb49f",
+        "product_title": "Sumu Bed",
+        "size": "Queen",
+        "price": 51870000,
+        "discountPercentage": 17,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6727",
+        "product_id": "6814c104ca19a92a5b1d5b6f",
+        "size_id": "6814c104ca19a92a5b1d5b70",
+        "product_title": "Doubleframe Table",
+        "size": "70\" x 36\"",
+        "price": 129870000,
+        "discountPercentage": 30,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 218025600,
+    "shippingFee": 0,
+    "note": "Voluptates utor curo spargo catena.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e2",
+    "createdAt": "2025-05-17T20:24:25.297Z",
+    "userId": "682302581f98de2bb173e3f5",
+    "userInfo": {
+      "fullName": "Joann Jacobson",
+      "phone": "1-842-888-7603",
+      "province": "Gia Lai",
+      "district": "Huyện Chư Păh",
+      "commune": "Thị trấn Phú Hòa",
+      "detail": "9654 Gibson Pines"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e2",
+        "product_id": "6814d007dac5e44185ec2216",
+        "size_id": "6814d007dac5e44185ec2218",
+        "product_title": "Nelson Cane Bench",
+        "size": "60\"",
+        "price": 59670000,
+        "discountPercentage": 19,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e2",
+        "product_id": "68149cff30a898aab1f043eb",
+        "size_id": "68149cff30a898aab1f043ed",
+        "product_title": "Lecco Sofa",
+        "size": "110\"",
+        "price": 396370000,
+        "discountPercentage": 10,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e2",
+        "product_id": "6814d008dac5e44185ec222b",
+        "size_id": "6814d008dac5e44185ec222d",
+        "product_title": "Line Storage Bench",
+        "size": "Large",
+        "price": 51870000,
+        "discountPercentage": 15,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e449ead5ad4123b66e2",
+        "product_id": "6814af8ef38840c4bcc37ee6",
+        "size_id": "6814af8ef38840c4bcc37ee8",
+        "product_title": "Cyclade Table",
+        "size": "Mid",
+        "price": 31070000,
+        "discountPercentage": 28,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 515615100,
+    "shippingFee": 0,
+    "note": "Dapifer volup acceptus ter patruus.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "momo"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f2",
+    "createdAt": "2025-05-20T06:38:21.236Z",
+    "userId": "6822d093c08fdfcf24d49a65",
+    "userInfo": {
+      "fullName": "Freddie Mohr",
+      "phone": "446-426-8610 x685",
+      "province": "Bình Định",
+      "district": "Huyện Vân Canh",
+      "commune": "Xã Canh Hòa",
+      "detail": "510 Lowe Tunnel"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f2",
+        "product_id": "6814c2ca511161f3045acbc2",
+        "size_id": "6814c2ca511161f3045acbc4",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "42\"",
+        "price": 77870000,
+        "discountPercentage": 22,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 121477200,
+    "shippingFee": 0,
+    "note": "Quidem condico absconditus animi vester.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6725",
+    "createdAt": "2025-05-20T10:14:44.257Z",
+    "userId": "6822d069c08fdfcf24d49305",
+    "userInfo": {
+      "fullName": "Edwin Sauer",
+      "phone": "726-781-0752",
+      "province": "Ninh Bình",
+      "district": "Huyện Gia Viễn",
+      "commune": "Xã Gia Thịnh",
+      "detail": "229 Albion Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6725",
+        "product_id": "68149cfe30a898aab1f043c5",
+        "size_id": "68149cfe30a898aab1f043c6",
+        "product_title": "Stack Sofa",
+        "size": "112”",
+        "price": 181870000,
+        "discountPercentage": 10,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 163683000,
+    "shippingFee": 0,
+    "note": "Terga utroque verecundia ustilo cilicium.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6730",
+    "createdAt": "2025-05-20T10:41:50.652Z",
+    "userId": "6823e65759170eb65398fb36",
+    "userInfo": {
+      "fullName": "Melanie Schmidt-Reichel",
+      "phone": "(435) 428-7897",
+      "province": "Đồng Tháp",
+      "district": "Thành phố Hồng Ngự",
+      "commune": "Phường An Lạc",
+      "detail": "25009 Columbia Avenue"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6730",
+        "product_id": "68149cfe30a898aab1f043cb",
+        "size_id": "68149cfe30a898aab1f043cd",
+        "product_title": "Outline Sofa",
+        "size": "3 Seater",
+        "price": 300170000,
+        "discountPercentage": 16,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6730",
+        "product_id": "6814d4dbd4982e02496b6350",
+        "size_id": "6814d4dbd4982e02496b6352",
+        "product_title": "Geometric Fire Pit",
+        "size": "Large",
+        "price": 72670000,
+        "discountPercentage": 20,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6730",
+        "product_id": "6814ccc358f78c505fea968c",
+        "size_id": "6814ccc358f78c505fea968d",
+        "product_title": "Line Storage Bench",
+        "size": "Small",
+        "price": 44070000,
+        "discountPercentage": 11,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e499ead5ad4123b6730",
+        "product_id": "6814cbfc9ac1ce261961922f",
+        "size_id": "6814cbfc9ac1ce2619619233",
+        "product_title": "Sonno M Mattress",
+        "size": "King",
+        "price": 62270000,
+        "discountPercentage": 15,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 402430600,
+    "shippingFee": 0,
+    "note": "Vulgaris coaegresco eum amiculum deinde.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e3",
+    "createdAt": "2025-05-20T16:52:08.072Z",
+    "userId": "682302711f98de2bb173e7bf",
+    "userInfo": {
+      "fullName": "Jo Dietrich",
+      "phone": "(555) 678-9264",
+      "province": "Hậu Giang",
+      "district": "Huyện Châu Thành",
+      "commune": "Xã Đông Phước",
+      "detail": "8639 Misael Extension"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e3",
+        "product_id": "6814c75637cb2b415f50f041",
+        "size_id": "6814c75637cb2b415f50f043",
+        "product_title": "Palm Headboard",
+        "size": "Full",
+        "price": 62270000,
+        "discountPercentage": 26,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 46079800,
+    "shippingFee": 0,
+    "note": "Adsidue quisquam tripudio celo alioqui.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f9",
+    "createdAt": "2025-05-21T02:01:04.793Z",
+    "userId": "682302721f98de2bb173e7f9",
+    "userInfo": {
+      "fullName": "Lucy West",
+      "phone": "907.918.2474 x2325",
+      "province": "Kiên Giang",
+      "district": "Thành phố Hà Tiên",
+      "commune": "Xã Tiên Hải",
+      "detail": "9102 Howell Fields"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f9",
+        "product_id": "6814cbfd9ac1ce2619619246",
+        "size_id": "6814cc109ac1ce2619619293",
+        "product_title": "DWR Pillow Insert",
+        "size": "King",
+        "price": 4940000,
+        "discountPercentage": 16,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 4149600,
+    "shippingFee": 40000,
+    "note": "Combibo textilis a consequuntur stella.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "momo"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f0",
+    "createdAt": "2025-05-21T08:46:45.968Z",
+    "userId": "6822d0a7c08fdfcf24d49ddf",
+    "userInfo": {
+      "fullName": "Frances Morissette",
+      "phone": "1-725-484-5894",
+      "province": "Quảng Nam",
+      "district": "Huyện Quế Sơn",
+      "commune": "Xã Quế Châu",
+      "detail": "35577 The Paddock"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f0",
+        "product_id": "6814cabe1780e5204676cded",
+        "size_id": "6814cabe1780e5204676cdef",
+        "product_title": "Sheepskin Throw",
+        "size": "Quadrat",
+        "price": 14170000,
+        "discountPercentage": 12,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 12469600,
+    "shippingFee": 0,
+    "note": "Adnuo porro quo nobis caelestis.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6719",
+    "createdAt": "2025-05-21T09:29:28.820Z",
+    "userId": "682302611f98de2bb173e545",
+    "userInfo": {
+      "fullName": "Floyd Spinka",
+      "phone": "1-556-293-1674",
+      "province": "Hưng Yên",
+      "district": "Huyện Tiên Lữ",
+      "commune": "Xã Hải Triều",
+      "detail": "579 Walnut Close"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6719",
+        "product_id": "6814d8faa6b79f1523907ebe",
+        "size_id": "6814d8faa6b79f1523907ec0",
+        "product_title": "DWR Aerocotton Towel",
+        "size": "Wash",
+        "price": 260000,
+        "discountPercentage": 22,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 202800,
+    "shippingFee": 40000,
+    "note": "Cunctatio demitto tantum sol tantillus.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66da",
+    "createdAt": "2025-05-21T20:33:59.010Z",
+    "userId": "6822d06cc08fdfcf24d493d1",
+    "userInfo": {
+      "fullName": "Mona Nitzsche II",
+      "phone": "439-486-3668 x1694",
+      "province": "Trà Vinh",
+      "district": "Thành phố Trà Vinh",
+      "commune": "Phường 9",
+      "detail": "8977 Tania Ferry"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66da",
+        "product_id": "6814c3b3595891202e483ab0",
+        "size_id": "6814c3b3595891202e483ab3",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 17,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 17156100,
+    "shippingFee": 0,
+    "note": "Somniculosus perspiciatis sollicito clam solvo.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 17156100
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66df",
+    "createdAt": "2025-05-21T22:28:15.797Z",
+    "userId": "6822d06dc08fdfcf24d493ed",
+    "userInfo": {
+      "fullName": "Annie Glover",
+      "phone": "1-626-791-1084 x8890",
+      "province": "Bắc Kạn",
+      "district": "Huyện Chợ Mới",
+      "commune": "Xã Quảng Chu",
+      "detail": "754 Chapel Hill"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66df",
+        "product_id": "6814d3abbcd9b504d290b050",
+        "size_id": "6814d3abbcd9b504d290b054",
+        "product_title": "Italian Boucle Pillow",
+        "size": "12\" x 22\"",
+        "price": 2990000,
+        "discountPercentage": 18,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 2451800,
+    "shippingFee": 40000,
+    "note": "Coerceo tabella adiuvo aegrotatio infit.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f8",
+    "createdAt": "2025-05-22T13:25:42.469Z",
+    "userId": "6822d090c08fdfcf24d4998b",
+    "userInfo": {
+      "fullName": "Hazel Littel",
+      "phone": "(330) 496-6081 x322",
+      "province": "Ninh Bình",
+      "district": "Thành phố Ninh Bình",
+      "commune": "Phường Ninh Sơn",
+      "detail": "68989 Ashley Inlet"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f8",
+        "product_id": "6814d518d4982e02496b6488",
+        "size_id": "6814d518d4982e02496b6489",
+        "product_title": "Lilo Pool Float",
+        "size": "Single",
+        "price": 31070000,
+        "discountPercentage": 12,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 27341600,
+    "shippingFee": 0,
+    "note": "Unus curto est conspergo ustilo.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 27341600
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6724",
+    "createdAt": "2025-05-22T14:59:09.768Z",
+    "userId": "6822d077c08fdfcf24d495cd",
+    "userInfo": {
+      "fullName": "Leigh Flatley",
+      "phone": "599.690.9589",
+      "province": "Lào Cai",
+      "district": "Huyện Si Ma Cai",
+      "commune": "Thị trấn Si Ma Cai",
+      "detail": "635 Lake Road"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6724",
+        "product_id": "6814c2ca511161f3045acc14",
+        "size_id": "6814c2ca511161f3045acc19",
+        "product_title": "Eames Table",
+        "size": "48\"",
+        "price": 59670000,
+        "discountPercentage": 18,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 48929400,
+    "shippingFee": 0,
+    "note": "Alias copia alienus ocer curia.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 48929400
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b671d",
+    "createdAt": "2025-05-23T18:29:56.966Z",
+    "userId": "682302601f98de2bb173e51d",
+    "userInfo": {
+      "fullName": "Bill Kunze DVM",
+      "phone": "1-934-815-0661 x4280",
+      "province": "Cao Bằng",
+      "district": "Thành phố Cao Bằng",
+      "commune": "Phường Duyệt Trung",
+      "detail": "9343 Geovany Drive"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b671d",
+        "product_id": "6814d886eb6e44f9df4dbffa",
+        "size_id": "6814d8dea6b79f1523907dbe",
+        "product_title": "OE1 Trolley",
+        "size": "Single",
+        "price": 10270000,
+        "discountPercentage": 18,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 8421400,
+    "shippingFee": 0,
+    "note": "Sophismata timidus aspicio vivo voluptatum.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d0",
+    "createdAt": "2025-05-24T01:31:07.795Z",
+    "userId": "682302691f98de2bb173e65b",
+    "userInfo": {
+      "fullName": "Jay Conn",
+      "phone": "1-600-275-8261",
+      "province": "Hà Nam",
+      "district": "Huyện Thanh Liêm",
+      "commune": "Xã Liêm Thuận",
+      "detail": "85860 Baumbach Harbor"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d0",
+        "product_id": "6814cbfd9ac1ce2619619246",
+        "size_id": "6814cc109ac1ce2619619293",
+        "product_title": "DWR Pillow Insert",
+        "size": "King",
+        "price": 4940000,
+        "discountPercentage": 16,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 4149600,
+    "shippingFee": 40000,
+    "note": "Vestigium uberrime subnecto totus comes.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d4",
+    "createdAt": "2025-05-24T03:13:41.730Z",
+    "userId": "682302721f98de2bb173e7fd",
+    "userInfo": {
+      "fullName": "Jeremy Haag",
+      "phone": "(293) 363-7053 x00427",
+      "province": "Phú Yên",
+      "district": "Thị xã Đông Hòa",
+      "commune": "Xã Hòa Thành",
+      "detail": "8799 Washington Avenue"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d4",
+        "product_id": "6814be17a67388b7fa2b037c",
+        "size_id": "6814be17a67388b7fa2b037d",
+        "product_title": "OE1 Table",
+        "size": "18 x 48",
+        "price": 18070000,
+        "discountPercentage": 30,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d4",
+        "product_id": "6814af8df38840c4bcc37eb8",
+        "size_id": "6814af8df38840c4bcc37eba",
+        "product_title": "Yoko Coffee Table",
+        "size": "Square",
+        "price": 83070000,
+        "discountPercentage": 14,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d4",
+        "product_id": "6814d8faa6b79f1523907ecc",
+        "size_id": "6814d943a6b79f1523907fd4",
+        "product_title": "Cotton Bathmat",
+        "size": "2' x 3'",
+        "price": 2470000,
+        "discountPercentage": 16,
+        "quantity": 2
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d4",
+        "product_id": "6814cabf1780e5204676cdfd",
+        "size_id": "6814cabf1780e5204676cdfe",
+        "product_title": "Sheepskin Pillow",
+        "size": "11\" x 21\"",
+        "price": 3380000,
+        "discountPercentage": 26,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 90740000,
+    "shippingFee": 0,
+    "note": "Apto odio caveo demo ambulo.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "momo"
+  },
+  {
+    "_id": "68522e489ead5ad4123b671b",
+    "createdAt": "2025-05-25T01:52:55.501Z",
+    "userId": "6822d06bc08fdfcf24d4936b",
+    "userInfo": {
+      "fullName": "Cora Nitzsche",
+      "phone": "304-451-2284",
+      "province": "Bình Định",
+      "district": "Thị xã Hoài Nhơn",
+      "commune": "Xã Hoài Phú",
+      "detail": "815 Wisozk Parkways"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b671b",
+        "product_id": "6814daff48198c3c05074c2f",
+        "size_id": "6814daff48198c3c05074c30",
+        "product_title": "Afteroom Coat Hanger",
+        "size": "Standard",
+        "price": 4550000,
+        "discountPercentage": 21,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 7189000,
+    "shippingFee": 0,
+    "note": "Ipsa repellendus viduo claro cavus.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 7189000
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66de",
+    "createdAt": "2025-05-25T02:21:04.377Z",
+    "userId": "6822d090c08fdfcf24d4999f",
+    "userInfo": {
+      "fullName": "Timothy Heaney",
+      "phone": "1-789-565-6167 x34306",
+      "province": "Cao Bằng",
+      "district": "Huyện Hoà An",
+      "commune": "Thị trấn Nước Hai",
+      "detail": "69314 Johnson Drives"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66de",
+        "product_id": "68149cfe30a898aab1f043b2",
+        "size_id": "68149cfe30a898aab1f043b4",
+        "product_title": "Como Sofa",
+        "size": "80\"",
+        "price": 304070000,
+        "discountPercentage": 12,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 267581600,
+    "shippingFee": 0,
+    "note": "Thesis sto labore toties nam.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66ef",
+    "createdAt": "2025-05-25T04:42:05.343Z",
+    "userId": "6823025c1f98de2bb173e4bb",
+    "userInfo": {
+      "fullName": "Gwen Marquardt",
+      "phone": "(730) 825-1012 x5981",
+      "province": "Gia Lai",
+      "district": "Huyện Đăk Pơ",
+      "commune": "Thị trấn Đak Pơ",
+      "detail": "495 Kessler Canyon"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66ef",
+        "product_id": "6814c75737cb2b415f50f065",
+        "size_id": "6814c75737cb2b415f50f066",
+        "product_title": "Coda Bed",
+        "size": "Twin",
+        "price": 93470000,
+        "discountPercentage": 26,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66ef",
+        "product_id": "6814c03933cd17d446b06398",
+        "size_id": "6814c03933cd17d446b0639e",
+        "product_title": "Eames Table",
+        "size": "30\" x 30\"",
+        "price": 59670000,
+        "discountPercentage": 14,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66ef",
+        "product_id": "6814d30f19ffed8d9ec6b54e",
+        "size_id": "6814d32a19ffed8d9ec6b61c",
+        "product_title": "HAY Phaidon Book",
+        "size": "Hardcover",
+        "price": 1558700,
+        "discountPercentage": 29,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e459ead5ad4123b66ef",
+        "product_id": "6814ccc458f78c505fea9692",
+        "size_id": "6814ccc458f78c505fea9694",
+        "product_title": "Line Storage Bench",
+        "size": "Large",
+        "price": 49270000,
+        "discountPercentage": 14,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 163962877,
+    "shippingFee": 0,
+    "note": "Alioqui ullam totam tutis abscido.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e499ead5ad4123b672a",
+    "createdAt": "2025-05-25T05:52:54.842Z",
+    "userId": "6822d092c08fdfcf24d49a11",
+    "userInfo": {
+      "fullName": "Elisa Walter",
+      "phone": "243.331.7444 x761",
+      "province": "Bình Thuận",
+      "district": "Thành phố Phan Thiết",
+      "commune": "Phường Mũi Né",
+      "detail": "974 Lewis Islands"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b672a",
+        "product_id": "6814c03933cd17d446b06346",
+        "size_id": "6814c03933cd17d446b0634e",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "84\"",
+        "price": 163670000,
+        "discountPercentage": 27,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 119479100,
+    "shippingFee": 0,
+    "note": "Terreo ipsam subiungo claustrum cicuta.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6707",
+    "createdAt": "2025-05-25T12:18:29.063Z",
+    "userId": "6822d06bc08fdfcf24d49387",
+    "userInfo": {
+      "fullName": "Tammy Mann",
+      "phone": "(344) 725-6730 x011",
+      "province": "Quảng Nam",
+      "district": "Thành phố Hội An",
+      "commune": "Phường Cẩm Châu",
+      "detail": "343 Klocko Cliff"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6707",
+        "product_id": "6814a81835053cb1544dd115",
+        "size_id": "6814a81835053cb1544dd116",
+        "product_title": "Line Credenza",
+        "size": "Small",
+        "price": 99970000,
+        "discountPercentage": 21,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 78976300,
+    "shippingFee": 0,
+    "note": "Conor credo ipsam at neque.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6701",
+    "createdAt": "2025-05-25T22:30:59.690Z",
+    "userId": "6822d082c08fdfcf24d49795",
+    "userInfo": {
+      "fullName": "Larry Champlin",
+      "phone": "404.205.2699 x2790",
+      "province": "Khánh Hòa",
+      "district": "Huyện Trường Sa",
+      "commune": "Xã Sinh Tồn",
+      "detail": "637 Gabrielle Curve"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6701",
+        "product_id": "6814d008dac5e44185ec2247",
+        "size_id": "6814d016dac5e44185ec2291",
+        "product_title": "Gather Bench",
+        "size": "73\"",
+        "price": 59670000,
+        "discountPercentage": 25,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 44752500,
+    "shippingFee": 0,
+    "note": "Brevis itaque correptius ustulo crastinus.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d2",
+    "createdAt": "2025-05-26T08:25:07.026Z",
+    "userId": "6822d09bc08fdfcf24d49b91",
+    "userInfo": {
+      "fullName": "Rolando Kuphal",
+      "phone": "423-415-0049",
+      "province": "Lai Châu",
+      "district": "Huyện Than Uyên",
+      "commune": "Xã Mường Cang",
+      "detail": "973 Kailee Terrace"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d2",
+        "product_id": "6814c03933cd17d446b06368",
+        "size_id": "6814c03933cd17d446b06369",
+        "product_title": "OE1 Table",
+        "size": "18 x 48",
+        "price": 18070000,
+        "discountPercentage": 12,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 31803200,
+    "shippingFee": 0,
+    "note": "Delectus astrum censura coepi aeger.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66ed",
+    "createdAt": "2025-05-26T12:04:14.172Z",
+    "userId": "6822d0a6c08fdfcf24d49d9d",
+    "userInfo": {
+      "fullName": "Andrea Kassulke",
+      "phone": "1-670-584-8705 x016",
+      "province": "Điện Biên",
+      "district": "Huyện Mường Nhé",
+      "commune": "Xã Leng Su Sìn",
+      "detail": "63294 Skyline Drive"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66ed",
+        "product_id": "6814d246995813a18f27d95b",
+        "size_id": "6814d246995813a18f27d95c",
+        "product_title": "Ballylagan Collection",
+        "size": "24\" x 24\"",
+        "price": 59540000,
+        "discountPercentage": 30,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 41678000,
+    "shippingFee": 0,
+    "note": "Confero ait defessus cuppedia uter.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e0",
+    "createdAt": "2025-05-26T12:46:12.236Z",
+    "userId": "6823026b1f98de2bb173e709",
+    "userInfo": {
+      "fullName": "Erick Corkery-Satterfield",
+      "phone": "1-531-372-9519",
+      "province": "Bình Thuận",
+      "district": "Huyện Hàm Thuận Nam",
+      "commune": "Xã Mỹ Thạnh",
+      "detail": "46601 Murazik Centers"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e0",
+        "product_id": "6814c75737cb2b415f50f047",
+        "size_id": "6814c75737cb2b415f50f049",
+        "product_title": "Madeleine Bed",
+        "size": "Full",
+        "price": 92170000,
+        "discountPercentage": 24,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 70049200,
+    "shippingFee": 0,
+    "note": "Virga caute cupio sono trado.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e449ead5ad4123b66e4",
+    "createdAt": "2025-05-26T14:36:51.494Z",
+    "userId": "6822d06bc08fdfcf24d49389",
+    "userInfo": {
+      "fullName": "Della Zieme",
+      "phone": "(377) 663-4496 x50496",
+      "province": "Lai Châu",
+      "district": "Huyện Mường Tè",
+      "commune": "Xã Mù Cả",
+      "detail": "167 Maggio Tunnel"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e449ead5ad4123b66e4",
+        "product_id": "6814af8df38840c4bcc37ea6",
+        "size_id": "6814af8df38840c4bcc37ea8",
+        "product_title": "Plinth Coffee Table",
+        "size": "XL",
+        "price": 95394000,
+        "discountPercentage": 17,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 79177020,
+    "shippingFee": 0,
+    "note": "Cribro clam vir illum vivo.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e459ead5ad4123b66f3",
+    "createdAt": "2025-05-26T19:31:05.144Z",
+    "userId": "682302641f98de2bb173e627",
+    "userInfo": {
+      "fullName": "Joann Rowe",
+      "phone": "799-517-2915 x592",
+      "province": "Tiền Giang",
+      "district": "Huyện Tân Phước",
+      "commune": "Xã Phước Lập",
+      "detail": "501 St Andrew's Road"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e459ead5ad4123b66f3",
+        "product_id": "6814a81835053cb1544dd11b",
+        "size_id": "6814a81835053cb1544dd11c",
+        "product_title": "Eames Storage Unit",
+        "size": "1x1",
+        "price": 20670000,
+        "discountPercentage": 11,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 18396300,
+    "shippingFee": 0,
+    "note": "Vitium cotidie reiciendis tandem alveus.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b670f",
+    "createdAt": "2025-05-26T20:35:40.795Z",
+    "userId": "6823026d1f98de2bb173e791",
+    "userInfo": {
+      "fullName": "Claudia Hand",
+      "phone": "1-975-266-4347 x14536",
+      "province": "Quảng Trị",
+      "district": "Huyện Gio Linh",
+      "commune": "Xã Gio Việt",
+      "detail": "801 Frederick Viaduct"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b670f",
+        "product_id": "6814d007dac5e44185ec220c",
+        "size_id": "6814d007dac5e44185ec220f",
+        "product_title": "Nelson Platform Bench",
+        "size": "72\"",
+        "price": 57070000,
+        "discountPercentage": 23,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 43943900,
+    "shippingFee": 0,
+    "note": "Versus cunae ante admiratio varius.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "momo"
+  },
+  {
+    "_id": "68522e499ead5ad4123b6728",
+    "createdAt": "2025-05-26T20:49:06.267Z",
+    "userId": "6823e65659170eb65398fb24",
+    "userInfo": {
+      "fullName": "Gayle Dooley",
+      "phone": "1-867-959-1835 x24949",
+      "province": "Khánh Hòa",
+      "district": "Huyện Trường Sa",
+      "commune": "Thị trấn Trường Sa",
+      "detail": "3657 Jalon Hollow"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e499ead5ad4123b6728",
+        "product_id": "6814a81835053cb1544dd149",
+        "size_id": "6814a81835053cb1544dd14a",
+        "product_title": "Line Credenza",
+        "size": "Small",
+        "price": 99970000,
+        "discountPercentage": 28,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 71978400,
+    "shippingFee": 0,
+    "note": "Utpote inventore conqueror defessus sponte.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66dd",
+    "createdAt": "2025-05-26T23:04:15.907Z",
+    "userId": "6823025a1f98de2bb173e445",
+    "userInfo": {
+      "fullName": "Lora Hoppe",
+      "phone": "782.992.7219",
+      "province": "An Giang",
+      "district": "Huyện Tri Tôn",
+      "commune": "Xã Lương Phi",
+      "detail": "2457 Depot Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66dd",
+        "product_id": "6814c740b44fb7a9e6cbb479",
+        "size_id": "6814c740b44fb7a9e6cbb47d",
+        "product_title": "Cove Bed",
+        "size": "King",
+        "price": 75270000,
+        "discountPercentage": 29,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 53441700,
+    "shippingFee": 0,
+    "note": "Eius patior conturbo adipisci vilis.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b6714",
+    "createdAt": "2025-05-27T00:22:04.219Z",
+    "userId": "6823025a1f98de2bb173e451",
+    "userInfo": {
+      "fullName": "Marilyn Upton",
+      "phone": "(423) 950-8593 x8567",
+      "province": "Trà Vinh",
+      "district": "Huyện Cầu Ngang",
+      "commune": "Xã Kim Hòa",
+      "detail": "75874 Eleanora Pine"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b6714",
+        "product_id": "6814c03933cd17d446b06346",
+        "size_id": "6814c03933cd17d446b06349",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "47\"",
+        "price": 93470000,
+        "discountPercentage": 27,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 68233100,
+    "shippingFee": 0,
+    "note": "Venio angulus apud umbra velit.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 68233100
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b6711",
+    "createdAt": "2025-05-27T04:15:16.729Z",
+    "userId": "6822d089c08fdfcf24d49867",
+    "userInfo": {
+      "fullName": "Johnny Kertzmann",
+      "phone": "1-483-578-1091",
+      "province": "Tuyên Quang",
+      "district": "Thành phố Tuyên Quang",
+      "commune": "Phường Nông Tiến",
+      "detail": "16692 Sigrid View"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b6711",
+        "product_id": "6814af8df38840c4bcc37ea6",
+        "size_id": "6814af8df38840c4bcc37ea8",
+        "product_title": "Plinth Coffee Table",
+        "size": "XL",
+        "price": 95394000,
+        "discountPercentage": 17,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b6711",
+        "product_id": "6814cabe1780e5204676cdd0",
+        "size_id": "6814cae11780e5204676ce88",
+        "product_title": "HAY Basket",
+        "size": "Small",
+        "price": 910000,
+        "discountPercentage": 27,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b6711",
+        "product_id": "6814d519d4982e02496b64c8",
+        "size_id": "6814d56bd4982e02496b65d8",
+        "product_title": "Umanoff Planter",
+        "size": "Small",
+        "price": 4810000,
+        "discountPercentage": 12,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 84074120,
+    "shippingFee": 0,
+    "note": "Valeo adhaero ciminatio labore aut.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e479ead5ad4123b670c",
+    "createdAt": "2025-05-27T04:25:57.715Z",
+    "userId": "6823026d1f98de2bb173e779",
+    "userInfo": {
+      "fullName": "Miss Pam Rice Sr.",
+      "phone": "(271) 563-8421 x200",
+      "province": "Quảng Ngãi",
+      "district": "Huyện Sơn Tịnh",
+      "commune": "Xã Tịnh Bắc",
+      "detail": "113 Henri Circles"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b670c",
+        "product_id": "6814c104ca19a92a5b1d5b63",
+        "size_id": "6814c104ca19a92a5b1d5b66",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 17,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b670c",
+        "product_id": "6814c2cb511161f3045acc48",
+        "size_id": "6814c2cb511161f3045acc4a",
+        "product_title": "Copenhague 20 Dining Table 2.0",
+        "size": "35.25\"",
+        "price": 25870000,
+        "discountPercentage": 27,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b670c",
+        "product_id": "6814be17a67388b7fa2b035a",
+        "size_id": "6814be17a67388b7fa2b035f",
+        "product_title": "Saarinen Dining Table, Round",
+        "size": "60\"",
+        "price": 163670000,
+        "discountPercentage": 14,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e479ead5ad4123b670c",
+        "product_id": "6814c3b3595891202e483a7c",
+        "size_id": "6814c3b3595891202e483a7d",
+        "product_title": "OE1 Table",
+        "size": "18 x 48",
+        "price": 18070000,
+        "discountPercentage": 26,
+        "quantity": 2
+      }
+    ],
+    "totalProductPrice": 203541000,
+    "shippingFee": 0,
+    "note": "Vivo patria conforto tenuis usque.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 203541000
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b66fe",
+    "createdAt": "2025-05-27T06:48:05.356Z",
+    "userId": "682302691f98de2bb173e657",
+    "userInfo": {
+      "fullName": "Jessie Tillman",
+      "phone": "562.693.5245 x1437",
+      "province": "Hà Nam",
+      "district": "Thị xã Duy Tiên",
+      "commune": "Phường Hoàng Đông",
+      "detail": "25401 Oak Avenue"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b66fe",
+        "product_id": "6814a81835053cb1544dd11b",
+        "size_id": "6814a81835053cb1544dd11f",
+        "product_title": "Eames Storage Unit",
+        "size": "4x2",
+        "price": 103870000,
+        "discountPercentage": 11,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 92444300,
+    "shippingFee": 0,
+    "note": "Suscipit arx cornu collum traho.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e479ead5ad4123b6709",
+    "createdAt": "2025-05-28T03:31:39.175Z",
+    "userId": "682302691f98de2bb173e659",
+    "userInfo": {
+      "fullName": "Shari Koch",
+      "phone": "(575) 575-6887 x830",
+      "province": "Điện Biên",
+      "district": "Thành phố Điện Biên Phủ",
+      "commune": "Phường Him Lam",
+      "detail": "656 Connie Glens"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e479ead5ad4123b6709",
+        "product_id": "6814c75737cb2b415f50f04f",
+        "size_id": "6814c75737cb2b415f50f053",
+        "product_title": "Demi Bed",
+        "size": "King",
+        "price": 97370000,
+        "discountPercentage": 14,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 83738200,
+    "shippingFee": 0,
+    "note": "Deputo acer via tredecim totidem.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d3",
+    "createdAt": "2025-05-28T04:29:23.329Z",
+    "userId": "682302641f98de2bb173e5ed",
+    "userInfo": {
+      "fullName": "Roosevelt Daugherty",
+      "phone": "1-502-634-2239",
+      "province": "Kon Tum",
+      "district": "Huyện Kon Rẫy",
+      "commune": "Xã Tân Lập",
+      "detail": "800 Parkside"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d3",
+        "product_id": "6814d887eb6e44f9df4dc01f",
+        "size_id": "6814d887eb6e44f9df4dc021",
+        "product_title": "Uten Silo",
+        "size": "Large",
+        "price": 15990000,
+        "discountPercentage": 30,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 11193000,
+    "shippingFee": 0,
+    "note": "Suadeo ambulo sum thalassinus arx.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 11193000
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6723",
+    "createdAt": "2025-05-28T06:34:24.869Z",
+    "userId": "6822d09ac08fdfcf24d49b47",
+    "userInfo": {
+      "fullName": "Dr. Elbert Barrows",
+      "phone": "1-885-545-9451 x86478",
+      "province": "Long An",
+      "district": "Huyện Tân Trụ",
+      "commune": "Xã Bình Trinh Đông",
+      "detail": "367 Federico Trafficway"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6723",
+        "product_id": "6814d4dbd4982e02496b6356",
+        "size_id": "6814d4dbd4982e02496b6357",
+        "product_title": "Wave Fire Pit",
+        "size": "30\"",
+        "price": 64870000,
+        "discountPercentage": 23,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b6723",
+        "product_id": "6814cabe1780e5204676cde3",
+        "size_id": "6814cabe1780e5204676cde6",
+        "product_title": "Sheepskin Throw",
+        "size": "Duo",
+        "price": 6370000,
+        "discountPercentage": 20,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 55045900,
+    "shippingFee": 0,
+    "note": "Absque pauper arguo acsi contabesco.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b671a",
+    "createdAt": "2025-05-29T03:59:04.487Z",
+    "userId": "6822d06ec08fdfcf24d49429",
+    "userInfo": {
+      "fullName": "Chad Schinner",
+      "phone": "331-683-5555 x0850",
+      "province": "Kiên Giang",
+      "district": "Huyện Gò Quao",
+      "commune": "Xã Định An",
+      "detail": "48037 Vandervort Skyway"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b671a",
+        "product_id": "68149cfe30a898aab1f043cb",
+        "size_id": "68149cfe30a898aab1f043cc",
+        "product_title": "Outline Sofa",
+        "size": "2 Seater",
+        "price": 255216000,
+        "discountPercentage": 16,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671a",
+        "product_id": "6814c1b4ba01e3aab8f3f39c",
+        "size_id": "6814c1b4ba01e3aab8f3f39f",
+        "product_title": "OE1 Table",
+        "size": "30 x 60",
+        "price": 20670000,
+        "discountPercentage": 18,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671a",
+        "product_id": "6814a1931c10fee4a5286d69",
+        "size_id": "6814a1931c10fee4a5286d6a",
+        "product_title": "Eames Storage Unit",
+        "size": "1x1",
+        "price": 20670000,
+        "discountPercentage": 25,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e489ead5ad4123b671a",
+        "product_id": "6814b49adb8e7421d9054849",
+        "size_id": "6814b4eddb8e7421d9054945",
+        "product_title": "Angles Pillow by Paul Smith",
+        "size": "17 x 17 ",
+        "price": 5200000,
+        "discountPercentage": 14,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 251305340,
+    "shippingFee": 0,
+    "note": "Comedo officia studio contego adfero.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "pending-payment",
+    "paymentStatus": {
+      "status": "lack",
+      "lack": 251305340
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b6702",
+    "createdAt": "2025-05-29T22:57:06.754Z",
+    "userId": "6822d068c08fdfcf24d492c9",
+    "userInfo": {
+      "fullName": "Ismael Kozey",
+      "phone": "823.552.0958 x4158",
+      "province": "Phú Yên",
+      "district": "Huyện Tây Hoà",
+      "commune": "Xã Hòa Phong",
+      "detail": "8708 Sandringham Road"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b6702",
+        "product_id": "6814bf396172128284c9bf0c",
+        "size_id": "6814bf396172128284c9bf11",
+        "product_title": "Eames Table",
+        "size": "48\"",
+        "price": 36270000,
+        "discountPercentage": 26,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 26839800,
+    "shippingFee": 0,
+    "note": "Solium acervus cerno alveus arceo.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  },
+  {
+    "_id": "68522e469ead5ad4123b66fa",
+    "createdAt": "2025-05-30T08:25:42.183Z",
+    "userId": "6822d092c08fdfcf24d49a3b",
+    "userInfo": {
+      "fullName": "Orlando O'Reilly",
+      "phone": "786.594.2018 x9422",
+      "province": "An Giang",
+      "district": "Huyện An Phú",
+      "commune": "Thị trấn An Phú",
+      "detail": "568 N Center Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b66fa",
+        "product_id": "6814bcdd958ad8fcad8c5433",
+        "size_id": "6814bcdd958ad8fcad8c5439",
+        "product_title": "Eames Table",
+        "size": "30\" x 30\"",
+        "price": 36270000,
+        "discountPercentage": 18,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e469ead5ad4123b66fa",
+        "product_id": "6814d518d4982e02496b6496",
+        "size_id": "6814d518d4982e02496b6497",
+        "product_title": "Neutra Modern House Numbers",
+        "size": "4\"",
+        "price": 910000,
+        "discountPercentage": 20,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e469ead5ad4123b66fa",
+        "product_id": "6814cbfc9ac1ce261961922f",
+        "size_id": "6814cbfc9ac1ce2619619231",
+        "product_title": "Sonno M Mattress",
+        "size": "Full",
+        "price": 44070000,
+        "discountPercentage": 15,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e469ead5ad4123b66fa",
+        "product_id": "6814d8faa6b79f1523907ed8",
+        "size_id": "6814d8faa6b79f1523907eda",
+        "product_title": "Colour Frame Mirror",
+        "size": "Medium",
+        "price": 28730000,
+        "discountPercentage": 27,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 88901800,
+    "shippingFee": 0,
+    "note": "Anser conculco asporto viriliter xiphias.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e439ead5ad4123b66d1",
+    "createdAt": "2025-05-30T09:54:17.984Z",
+    "userId": "6822d088c08fdfcf24d49831",
+    "userInfo": {
+      "fullName": "Luke O'Reilly",
+      "phone": "1-431-443-6012 x8665",
+      "province": "Bạc Liêu",
+      "district": "Huyện Hoà Bình",
+      "commune": "Xã Vĩnh Bình",
+      "detail": "844 Pine Street"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e439ead5ad4123b66d1",
+        "product_id": "6814c3b3595891202e483a6c",
+        "size_id": "6814c3b3595891202e483a6e",
+        "product_title": "Eames Table",
+        "size": "36\"",
+        "price": 25870000,
+        "discountPercentage": 12,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d1",
+        "product_id": "6814d8faa6b79f1523907ecc",
+        "size_id": "6814d943a6b79f1523907fd4",
+        "product_title": "Cotton Bathmat",
+        "size": "2' x 3'",
+        "price": 2470000,
+        "discountPercentage": 16,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d1",
+        "product_id": "6814d518d4982e02496b649c",
+        "size_id": "6814d518d4982e02496b649d",
+        "product_title": "Ball Portable Lamp",
+        "size": "Small",
+        "price": 4030000,
+        "discountPercentage": 25,
+        "quantity": 1
+      },
+      {
+        "order_id": "68522e439ead5ad4123b66d1",
+        "product_id": "6814d8faa6b79f1523907ebe",
+        "size_id": "6814d8faa6b79f1523907ebf",
+        "product_title": "DWR Aerocotton Towel",
+        "size": "Hand",
+        "price": 520000,
+        "discountPercentage": 22,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 28268500,
+    "shippingFee": 0,
+    "note": "Cras deprecator atrox cognatus acies.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6722",
+    "createdAt": "2025-05-30T10:11:34.711Z",
+    "userId": "6822d078c08fdfcf24d495f7",
+    "userInfo": {
+      "fullName": "Brandon Langworth",
+      "phone": "910.298.1966",
+      "province": "Hoà Bình",
+      "district": "Huyện Lạc Thủy",
+      "commune": "Thị trấn Chi Nê",
+      "detail": "60773 The Willows"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6722",
+        "product_id": "6814d886eb6e44f9df4dc000",
+        "size_id": "6814d8d2eb6e44f9df4dc0f8",
+        "product_title": "Formwork Box",
+        "size": "Large",
+        "price": 1560000,
+        "discountPercentage": 14,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 1341600,
+    "shippingFee": 40000,
+    "note": "Congregatio adfero supra corrumpo caritas.",
+    "deliveryMethod": "standard",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "momo"
+  },
+  {
+    "_id": "68522e489ead5ad4123b6717",
+    "createdAt": "2025-05-30T13:00:54.019Z",
+    "userId": "6822d088c08fdfcf24d4981f",
+    "userInfo": {
+      "fullName": "Laura Kuphal-Bednar",
+      "phone": "501.240.9955 x7471",
+      "province": "Kon Tum",
+      "district": "Huyện Đắk Hà",
+      "commune": "Xã Đăk Ngọk",
+      "detail": "9710 Bauch Heights"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e489ead5ad4123b6717",
+        "product_id": "6814a81835053cb1544dd127",
+        "size_id": "6814a81835053cb1544dd128",
+        "product_title": "Eames Storage Unit",
+        "size": "1x1",
+        "price": 20670000,
+        "discountPercentage": 11,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 18396300,
+    "shippingFee": 0,
+    "note": "Valeo adiuvo arx vergo tonsor.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "cancelled",
+    "paymentMethod": "cash"
+  },
+  {
+    "_id": "68522e469ead5ad4123b66fc",
+    "createdAt": "2025-05-30T13:14:23.808Z",
+    "userId": "6822d0a4c08fdfcf24d49d0d",
+    "userInfo": {
+      "fullName": "Robert Lind",
+      "phone": "907-649-5906",
+      "province": "Đà Nẵng",
+      "district": "Huyện Hòa Vang",
+      "commune": "Xã Hòa Ninh",
+      "detail": "7809 Kris Shores"
+    },
+    "orderProducts": [
+      {
+        "order_id": "68522e469ead5ad4123b66fc",
+        "product_id": "6814b499db8e7421d9054823",
+        "size_id": "6814b499db8e7421d9054825",
+        "product_title": "Nelson Platform Bench Cushion",
+        "size": "36\"",
+        "price": 16770000,
+        "discountPercentage": 17,
+        "quantity": 1
+      }
+    ],
+    "totalProductPrice": 13919100,
+    "shippingFee": 0,
+    "note": "Supra bonus adhuc voluptatum vicissitudo.",
+    "deliveryMethod": "instant",
+    "deliveryStatus": "delivered",
+    "paymentStatus": {
+      "status": "ok"
+    },
+    "paymentMethod": "qr"
+  }
+]
